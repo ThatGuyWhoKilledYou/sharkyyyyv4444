@@ -1,0 +1,2891 @@
+-- made by vo_xo lol
+local notascript = Instance.new("ScreenGui")
+local stuff = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local RGB = Instance.new("Frame")
+local TextLabel_2 = Instance.new("TextLabel")
+local RGB_2 = Instance.new("Frame")
+local Next = Instance.new("TextButton")
+local Prev = Instance.new("TextButton")
+local Exit = Instance.new("TextButton")
+local Tab = Instance.new("TextButton")
+local logo1 = Instance.new("ImageLabel")
+local USureAboutThat = Instance.new("Frame")
+local TextLabel_3 = Instance.new("TextLabel")
+local NAH = Instance.new("TextButton")
+local YEAH = Instance.new("TextButton")
+local ImageLabel = Instance.new("ImageLabel")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local Pages = Instance.new("ImageLabel")
+local UIPageLayout = Instance.new("UIPageLayout")
+local Page1 = Instance.new("Frame")
+local InfYield = Instance.new("TextButton")
+local SmoothF = Instance.new("TextButton")
+local Booga = Instance.new("TextButton")
+local GunD = Instance.new("TextButton")
+local Kidnap = Instance.new("TextButton")
+local Reviz = Instance.new("TextButton")
+local CarFly = Instance.new("TextButton")
+local AudioL = Instance.new("TextButton")
+local TS2ool = Instance.new("TextButton")
+local MoneyF = Instance.new("TextButton")
+local Shatter = Instance.new("TextButton")
+local Chicken = Instance.new("TextButton")
+local Animations = Instance.new("TextButton")
+local SaveTools = Instance.new("TextButton")
+local AntiStomp = Instance.new("TextButton")
+local Bypass1 = Instance.new("TextButton")
+local VoidGui = Instance.new("TextButton")
+local UnknownX = Instance.new("TextButton")
+local AntiVoid = Instance.new("TextButton")
+local InfRun = Instance.new("TextButton")
+local Bypass2 = Instance.new("TextButton")
+local TouchVoid = Instance.new("TextButton")
+local GUITEST = Instance.new("TextButton")
+local Btools = Instance.new("TextButton")
+local InvisFling = Instance.new("TextButton")
+local TextLabel_4 = Instance.new("TextLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local TextLabel_6 = Instance.new("TextLabel")
+local TextLabel_7 = Instance.new("TextLabel")
+local TextLabel_8 = Instance.new("TextLabel")
+local ct1 = Instance.new("Frame")
+local ct2 = Instance.new("Frame")
+local ct3 = Instance.new("Frame")
+local ct4 = Instance.new("Frame")
+local ct5 = Instance.new("Frame")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local Page2 = Instance.new("Frame")
+local TextLabel_9 = Instance.new("TextLabel")
+local ToolDrop = Instance.new("TextButton")
+local NoSlow = Instance.new("TextButton")
+local GodAnim = Instance.new("TextButton")
+local DropAll = Instance.new("TextButton")
+local Bbb = Instance.new("TextButton")
+local TextLabel_10 = Instance.new("TextLabel")
+local logs = Instance.new("TextLabel")
+local ANTSTOMP = Instance.new("TextButton")
+local INFRUn = Instance.new("TextButton")
+local chikcne = Instance.new("TextButton")
+local GAN = Instance.new("TextButton")
+local toolkitss = Instance.new("TextButton")
+local CFLY = Instance.new("TextButton")
+local SMOF = Instance.new("TextButton")
+local ImageLabel_4 = Instance.new("ImageLabel")
+local Page3 = Instance.new("Frame")
+local TextLabel_11 = Instance.new("TextLabel")
+local TextLabel_12 = Instance.new("TextLabel")
+local TextLabel_13 = Instance.new("TextLabel")
+local TextLabel_14 = Instance.new("TextLabel")
+local apel = Instance.new("TextButton")
+local ImageLabel_5 = Instance.new("ImageLabel")
+local funnyjoke = Instance.new("ImageLabel")
+local yesorno = Instance.new("Frame")
+local TextLabel_15 = Instance.new("TextLabel")
+local NOPLS = Instance.new("TextButton")
+local UHHUH = Instance.new("TextButton")
+local TextLabel_16 = Instance.new("TextLabel")
+local counter = Instance.new("TextLabel")
+local ImageLabel_6 = Instance.new("ImageLabel")
+local logo2 = Instance.new("ImageLabel")
+local logo3 = Instance.new("ImageLabel")
+local logo4 = Instance.new("ImageLabel")
+local Disable = Instance.new("TextButton")
+local Disable_2 = Instance.new("ImageLabel")
+local Open = Instance.new("TextButton")
+local ImageLabel_7 = Instance.new("ImageLabel")
+local a = Instance.new("ImageLabel")
+local b = Instance.new("ImageLabel")
+local c = Instance.new("ImageLabel")
+local d = Instance.new("ImageLabel")
+local Startup = Instance.new("Frame")
+local f1 = Instance.new("ImageLabel")
+local TextLabel_17 = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
+local f2 = Instance.new("ImageLabel")
+local f3 = Instance.new("ImageLabel")
+local f4 = Instance.new("ImageLabel")
+local ImageLabel_8 = Instance.new("ImageLabel")
+local mute = Instance.new("Frame")
+local pie = Instance.new("Frame")
+local mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm = Instance.new("ImageButton")
+local TextLabel_18 = Instance.new("TextLabel")
+
+--Properties:
+
+-- COPY THIS LATER ON FOO!!
+
+local PRANKED = Instance.new("Sound")
+local PRANKEDx2 = Instance.new("Sound")
+local PRANKEDx3 = Instance.new("Sound")
+local dangit = Instance.new("Sound")
+local coolersound = Instance.new("Sound")
+local coolnoise = Instance.new("Sound")
+local ALLAHPIE = Instance.new("Sound")
+
+PRANKED.Name = "PRANKED"
+PRANKED.Parent = notascript
+PRANKED.EmitterSize = 10
+PRANKED.Looped = false
+PRANKED.PlaybackSpeed = 1
+PRANKED.Playing = false
+PRANKED.RollOffMode = "Inverse"
+PRANKED.SoundId = "rbxassetid://3551550636"
+PRANKED.TimePosition = 0
+PRANKED.Volume = 10
+PRANKED.MaxDistance = 10000
+
+PRANKEDx2.Name = "PRANKEDx2"
+PRANKEDx2.Parent = notascript
+PRANKEDx2.EmitterSize = 10
+PRANKEDx2.Looped = false
+PRANKEDx2.PlaybackSpeed = 1
+PRANKEDx2.Playing = false
+PRANKEDx2.RollOffMode = "Inverse"
+PRANKEDx2.SoundId = "rbxassetid://4605268594"
+PRANKEDx2.TimePosition = 0
+PRANKEDx2.Volume = 10
+PRANKEDx2.MaxDistance = 10000
+
+PRANKEDx3.Name = "PRANKEDx3"
+PRANKEDx3.Parent = notascript
+PRANKEDx3.EmitterSize = 10
+PRANKEDx3.Looped = false
+PRANKEDx3.PlaybackSpeed = 1
+PRANKEDx3.Playing = false
+PRANKEDx3.RollOffMode = "Inverse"
+PRANKEDx3.SoundId = "rbxassetid://4607744753"
+PRANKEDx3.TimePosition = 0
+PRANKEDx3.Volume = 10
+PRANKEDx3.MaxDistance = 10000
+
+dangit.Name = "dangit"
+dangit.Parent = notascript
+dangit.EmitterSize = 10
+dangit.Looped = false
+dangit.PlaybackSpeed = 1
+dangit.Playing = false
+dangit.RollOffMode = "Inverse"
+dangit.SoundId = "rbxassetid://2428638996"
+dangit.TimePosition = 0
+dangit.Volume = 10
+dangit.MaxDistance = 10000
+
+coolersound.Name = "coolersound"
+coolersound.Parent = notascript
+coolersound.EmitterSize = 10
+coolersound.Looped = false
+coolersound.PlaybackSpeed = 1
+coolersound.Playing = false
+coolersound.RollOffMode = "Inverse"
+coolersound.SoundId = "rbxassetid://535716488"
+coolersound.TimePosition = 0
+coolersound.Volume = 5
+coolersound.MaxDistance = 10000
+
+coolnoise.Name = "coolnoise"
+coolnoise.Parent = notascript
+coolnoise.EmitterSize = 10
+coolnoise.Looped = false
+coolnoise.PlaybackSpeed = 1
+coolnoise.Playing = false
+coolnoise.RollOffMode = "Inverse"
+coolnoise.SoundId = "rbxassetid://4590662766"
+coolnoise.TimePosition = 0
+coolnoise.Volume = 2
+coolnoise.MaxDistance = 10000
+
+ALLAHPIE.Name = "ALLAHPIE"
+ALLAHPIE.Parent = notascript
+ALLAHPIE.EmitterSize = 10
+ALLAHPIE.Looped = true
+ALLAHPIE.PlaybackSpeed = 1
+ALLAHPIE.Playing = false
+ALLAHPIE.RollOffMode = "Inverse"
+ALLAHPIE.SoundId = "rbxassetid://3685475722"
+ALLAHPIE.TimePosition = 0
+ALLAHPIE.Volume = 10
+ALLAHPIE.MaxDistance = 10000
+
+-- COPY IT RETARD!!! (self reminder)
+
+notascript.Name = "notascript"
+notascript.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+notascript.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+notascript.ResetOnSpawn = false
+
+stuff.Name = "stuff"
+stuff.Parent = notascript
+stuff.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+stuff.BorderColor3 = Color3.fromRGB(0, 0, 0)
+stuff.BorderSizePixel = 0
+stuff.ClipsDescendants = true
+stuff.Position = UDim2.new(0.266000003, 0, 0.277999997, 0)
+stuff.Size = UDim2.new(0, 705, 0, 0)
+
+TextLabel.Parent = stuff
+TextLabel.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 0
+TextLabel.Size = UDim2.new(0, 705, 0, 66)
+TextLabel.ZIndex = 10
+TextLabel.Font = Enum.Font.SourceSansLight
+TextLabel.Text = "Sharkyy V4"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 50.000
+TextLabel.TextStrokeTransparency = 0.000
+
+RGB.Name = "RGB"
+RGB.Parent = stuff
+RGB.BackgroundColor3 = Color3.fromRGB(0, 103, 99)
+RGB.BorderSizePixel = 0
+RGB.Position = UDim2.new(-0.00141843967, 0, 0.17582418, 0)
+RGB.Size = UDim2.new(0, 708, 0, 5)
+RGB.ZIndex = 7
+
+TextLabel_2.Parent = stuff
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.Position = UDim2.new(0, 0, 0.854395628, 0)
+TextLabel_2.Size = UDim2.new(0, 706, 0, 53)
+TextLabel_2.ZIndex = 9
+TextLabel_2.Font = Enum.Font.SourceSansLight
+TextLabel_2.Text = "made by vo_xo"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 30.000
+TextLabel_2.TextStrokeTransparency = 0.000
+
+RGB_2.Name = "RGB"
+RGB_2.Parent = stuff
+RGB_2.BackgroundColor3 = Color3.fromRGB(0, 103, 99)
+RGB_2.BorderSizePixel = 0
+RGB_2.Position = UDim2.new(0, 0, 0.846153855, 0)
+RGB_2.Size = UDim2.new(0, 708, 0, 3)
+RGB_2.ZIndex = 7
+
+Next.Name = "Next"
+Next.Parent = stuff
+Next.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Next.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Next.BorderSizePixel = 2
+Next.Position = UDim2.new(0.925680816, 0, 0.8776173, 0)
+Next.Size = UDim2.new(0, 34, 0, 34)
+Next.ZIndex = 6
+Next.Font = Enum.Font.SourceSans
+Next.Text = ">"
+Next.TextColor3 = Color3.fromRGB(255, 255, 255)
+Next.TextSize = 40.000
+Next.TextStrokeTransparency = 0.000
+
+Prev.Name = "Prev"
+Prev.Parent = stuff
+Prev.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Prev.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Prev.BorderSizePixel = 2
+Prev.Position = UDim2.new(0.0221347213, 0, 0.8776173, 0)
+Prev.Size = UDim2.new(0, 34, 0, 34)
+Prev.ZIndex = 6
+Prev.Font = Enum.Font.SourceSans
+Prev.Text = "<"
+Prev.TextColor3 = Color3.fromRGB(255, 255, 255)
+Prev.TextSize = 40.000
+Prev.TextStrokeTransparency = 0.000
+
+Exit.Name = "Exit"
+Exit.Parent = stuff
+Exit.BackgroundColor3 = Color3.fromRGB(95, 53, 54)
+Exit.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Exit.BorderSizePixel = 2
+Exit.Position = UDim2.new(0.954049587, 0, -0.0015035728, 0)
+Exit.Size = UDim2.new(0, 34, 0, 34)
+Exit.ZIndex = 8
+Exit.Font = Enum.Font.SourceSans
+Exit.Text = "X"
+Exit.TextColor3 = Color3.fromRGB(255, 255, 255)
+Exit.TextSize = 40.000
+Exit.TextStrokeTransparency = 0.000
+
+Tab.Name = "Tab"
+Tab.Parent = stuff
+Tab.BackgroundColor3 = Color3.fromRGB(122, 122, 122)
+Tab.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Tab.BorderSizePixel = 2
+Tab.Position = UDim2.new(0.905822635, 0, -0.0015035728, 0)
+Tab.Size = UDim2.new(0, 34, 0, 34)
+Tab.ZIndex = 8
+Tab.Font = Enum.Font.SourceSans
+Tab.Text = "-"
+Tab.TextColor3 = Color3.fromRGB(255, 255, 255)
+Tab.TextSize = 60.000
+Tab.TextStrokeTransparency = 0.000
+
+logo1.Name = "logo1"
+logo1.Parent = stuff
+logo1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+logo1.BackgroundTransparency = 1.000
+logo1.Position = UDim2.new(0, 0, -0.00824175775, 0)
+logo1.Size = UDim2.new(0, 72, 0, 72)
+logo1.ZIndex = 100
+logo1.Image = "http://www.roblox.com/asset/?id=4655673440"
+
+USureAboutThat.Name = "USureAboutThat"
+USureAboutThat.Parent = stuff
+USureAboutThat.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+USureAboutThat.BorderColor3 = Color3.fromRGB(0, 0, 0)
+USureAboutThat.BorderSizePixel = 0
+USureAboutThat.ClipsDescendants = true
+USureAboutThat.Position = UDim2.new(0.00328776031, 0, 0.19682689, 0)
+USureAboutThat.Size = UDim2.new(0, 703, 0, 0)
+USureAboutThat.ZIndex = 101
+
+TextLabel_3.Parent = USureAboutThat
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Size = UDim2.new(0, 700, 0, 114)
+TextLabel_3.Font = Enum.Font.SourceSans
+TextLabel_3.Text = "Are you sure?"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextSize = 40.000
+TextLabel_3.TextStrokeTransparency = 0.000
+
+NAH.Name = "NAH"
+NAH.Parent = USureAboutThat
+NAH.BackgroundColor3 = Color3.fromRGB(137, 255, 145)
+NAH.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NAH.BorderSizePixel = 2
+NAH.Position = UDim2.new(0.496207833, 0, 0.651041865, 0)
+NAH.Size = UDim2.new(0, 354, 0, 82)
+NAH.ZIndex = 8
+NAH.Font = Enum.Font.SourceSans
+NAH.Text = "nah"
+NAH.TextColor3 = Color3.fromRGB(255, 255, 255)
+NAH.TextSize = 60.000
+NAH.TextStrokeTransparency = 0.000
+
+YEAH.Name = "YEAH"
+YEAH.Parent = USureAboutThat
+YEAH.BackgroundColor3 = Color3.fromRGB(122, 66, 66)
+YEAH.BorderColor3 = Color3.fromRGB(0, 0, 0)
+YEAH.BorderSizePixel = 2
+YEAH.Position = UDim2.new(-0.00165845454, 0, 0.651041746, 0)
+YEAH.Size = UDim2.new(0, 350, 0, 82)
+YEAH.ZIndex = 8
+YEAH.Font = Enum.Font.SourceSans
+YEAH.Text = "yeah"
+YEAH.TextColor3 = Color3.fromRGB(255, 255, 255)
+YEAH.TextSize = 60.000
+YEAH.TextStrokeTransparency = 0.000
+
+ImageLabel.Parent = stuff
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(0, 0, -0.447802186, 0)
+ImageLabel.Size = UDim2.new(0, 706, 0, 227)
+ImageLabel.ZIndex = 9
+ImageLabel.Image = "http://www.roblox.com/asset/?id=4648793667"
+ImageLabel.ImageTransparency = 0.300
+
+ImageLabel_2.Parent = stuff
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
+ImageLabel_2.BorderSizePixel = 0
+ImageLabel_2.Position = UDim2.new(0.00141843967, 0, 0.857142925, 0)
+ImageLabel_2.Size = UDim2.new(0, 703, 0, 52)
+ImageLabel_2.ZIndex = 8
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=4648793667"
+ImageLabel_2.ImageTransparency = 0.300
+
+Pages.Name = "Pages"
+Pages.Parent = stuff
+Pages.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Pages.BackgroundTransparency = 1.000
+Pages.Position = UDim2.new(0.00141843967, 0, 0.186813191, 0)
+Pages.Size = UDim2.new(0, 704, 0, 295)
+Pages.Image = "http://www.roblox.com/asset/?id=4758489449"
+
+UIPageLayout.Parent = Pages
+UIPageLayout.EasingStyle = Enum.EasingStyle.Cubic
+UIPageLayout.TweenTime = 0.500
+
+Page1.Name = "Page1"
+Page1.Parent = Pages
+Page1.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+Page1.BackgroundTransparency = 1.000
+Page1.BorderSizePixel = 0
+Page1.Position = UDim2.new(0, 0, -0.000270002987, 0)
+Page1.Size = UDim2.new(0, 704, 0, 243)
+Page1.ZIndex = 10
+
+InfYield.Name = "InfYield"
+InfYield.Parent = Page1
+InfYield.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+InfYield.BorderColor3 = Color3.fromRGB(0, 0, 0)
+InfYield.BorderSizePixel = 2
+InfYield.Position = UDim2.new(0.0227272734, 0, 0.094650209, 0)
+InfYield.Size = UDim2.new(0, 124, 0, 30)
+InfYield.Font = Enum.Font.SourceSans
+InfYield.Text = "Infinite Yield"
+InfYield.TextColor3 = Color3.fromRGB(255, 255, 255)
+InfYield.TextSize = 20.000
+InfYield.TextStrokeTransparency = 0.000
+
+SmoothF.Name = "SmoothF"
+SmoothF.Parent = Page1
+SmoothF.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+SmoothF.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SmoothF.BorderSizePixel = 2
+SmoothF.Position = UDim2.new(0.221590891, 0, 0.094650209, 0)
+SmoothF.Size = UDim2.new(0, 124, 0, 30)
+SmoothF.Font = Enum.Font.SourceSans
+SmoothF.Text = "Smooth Car Fly"
+SmoothF.TextColor3 = Color3.fromRGB(255, 255, 255)
+SmoothF.TextSize = 20.000
+SmoothF.TextStrokeTransparency = 0.000
+
+Booga.Name = "Booga"
+Booga.Parent = Page1
+Booga.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Booga.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Booga.BorderSizePixel = 2
+Booga.Position = UDim2.new(0.413352281, 0, 0.094650209, 0)
+Booga.Size = UDim2.new(0, 124, 0, 30)
+Booga.Font = Enum.Font.SourceSans
+Booga.Text = "Booga Fricker"
+Booga.TextColor3 = Color3.fromRGB(255, 255, 255)
+Booga.TextSize = 20.000
+Booga.TextStrokeTransparency = 0.000
+
+GunD.Name = "GunD"
+GunD.Parent = Page1
+GunD.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+GunD.BorderColor3 = Color3.fromRGB(0, 0, 0)
+GunD.BorderSizePixel = 2
+GunD.Position = UDim2.new(0.605113566, 0, 0.094650209, 0)
+GunD.Size = UDim2.new(0, 124, 0, 30)
+GunD.Font = Enum.Font.SourceSans
+GunD.Text = "GunDupe"
+GunD.TextColor3 = Color3.fromRGB(255, 255, 255)
+GunD.TextSize = 20.000
+GunD.TextStrokeTransparency = 0.000
+
+Kidnap.Name = "Kidnap"
+Kidnap.Parent = Page1
+Kidnap.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Kidnap.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Kidnap.BorderSizePixel = 2
+Kidnap.Position = UDim2.new(0.799715817, 0, 0.094650209, 0)
+Kidnap.Size = UDim2.new(0, 124, 0, 30)
+Kidnap.Font = Enum.Font.SourceSans
+Kidnap.Text = "Kidnap"
+Kidnap.TextColor3 = Color3.fromRGB(255, 255, 255)
+Kidnap.TextSize = 20.000
+Kidnap.TextStrokeTransparency = 0.000
+
+Reviz.Name = "Reviz"
+Reviz.Parent = Page1
+Reviz.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Reviz.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Reviz.BorderSizePixel = 2
+Reviz.Position = UDim2.new(0.0227272734, 0, 0.25514403, 0)
+Reviz.Size = UDim2.new(0, 124, 0, 30)
+Reviz.Font = Enum.Font.SourceSans
+Reviz.Text = "Reviz Admin"
+Reviz.TextColor3 = Color3.fromRGB(255, 255, 255)
+Reviz.TextSize = 20.000
+Reviz.TextStrokeTransparency = 0.000
+
+CarFly.Name = "CarFly"
+CarFly.Parent = Page1
+CarFly.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+CarFly.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CarFly.BorderSizePixel = 2
+CarFly.Position = UDim2.new(0.221590891, 0, 0.25514403, 0)
+CarFly.Size = UDim2.new(0, 124, 0, 30)
+CarFly.Font = Enum.Font.SourceSans
+CarFly.Text = "Car Fly (Old)"
+CarFly.TextColor3 = Color3.fromRGB(255, 255, 255)
+CarFly.TextSize = 20.000
+CarFly.TextStrokeTransparency = 0.000
+
+AudioL.Name = "AudioL"
+AudioL.Parent = Page1
+AudioL.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+AudioL.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AudioL.BorderSizePixel = 2
+AudioL.Position = UDim2.new(0.413352281, 0, 0.25514403, 0)
+AudioL.Size = UDim2.new(0, 124, 0, 30)
+AudioL.Font = Enum.Font.SourceSans
+AudioL.Text = "Audio Logger"
+AudioL.TextColor3 = Color3.fromRGB(255, 255, 255)
+AudioL.TextSize = 20.000
+AudioL.TextStrokeTransparency = 0.000
+
+TS2ool.Name = "TS2ool"
+TS2ool.Parent = Page1
+TS2ool.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+TS2ool.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TS2ool.BorderSizePixel = 2
+TS2ool.Position = UDim2.new(0.605113566, 0, 0.25514403, 0)
+TS2ool.Size = UDim2.new(0, 124, 0, 30)
+TS2ool.Font = Enum.Font.SourceSans
+TS2ool.Text = "TS2oolkit"
+TS2ool.TextColor3 = Color3.fromRGB(255, 255, 255)
+TS2ool.TextSize = 20.000
+TS2ool.TextStrokeTransparency = 0.000
+
+MoneyF.Name = "MoneyF"
+MoneyF.Parent = Page1
+MoneyF.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+MoneyF.BorderColor3 = Color3.fromRGB(0, 0, 0)
+MoneyF.BorderSizePixel = 2
+MoneyF.Position = UDim2.new(0.799715817, 0, 0.25514403, 0)
+MoneyF.Size = UDim2.new(0, 124, 0, 30)
+MoneyF.Font = Enum.Font.SourceSans
+MoneyF.Text = "Money Finder"
+MoneyF.TextColor3 = Color3.fromRGB(255, 255, 255)
+MoneyF.TextSize = 20.000
+MoneyF.TextStrokeTransparency = 0.000
+
+Shatter.Name = "Shatter"
+Shatter.Parent = Page1
+Shatter.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Shatter.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Shatter.BorderSizePixel = 2
+Shatter.Position = UDim2.new(0.0227272734, 0, 0.43621397, 0)
+Shatter.Size = UDim2.new(0, 124, 0, 30)
+Shatter.Font = Enum.Font.SourceSans
+Shatter.Text = "Shattervast"
+Shatter.TextColor3 = Color3.fromRGB(255, 255, 255)
+Shatter.TextSize = 20.000
+Shatter.TextStrokeTransparency = 0.000
+
+Chicken.Name = "Chicken"
+Chicken.Parent = Page1
+Chicken.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Chicken.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Chicken.BorderSizePixel = 2
+Chicken.Position = UDim2.new(0.221590891, 0, 0.43621397, 0)
+Chicken.Size = UDim2.new(0, 124, 0, 30)
+Chicken.Font = Enum.Font.SourceSans
+Chicken.Text = "Chicken GUI"
+Chicken.TextColor3 = Color3.fromRGB(255, 255, 255)
+Chicken.TextSize = 20.000
+Chicken.TextStrokeTransparency = 0.000
+
+Animations.Name = "Animations"
+Animations.Parent = Page1
+Animations.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Animations.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Animations.BorderSizePixel = 2
+Animations.Position = UDim2.new(0.413352281, 0, 0.43621397, 0)
+Animations.Size = UDim2.new(0, 124, 0, 30)
+Animations.Font = Enum.Font.SourceSans
+Animations.Text = "Animations"
+Animations.TextColor3 = Color3.fromRGB(255, 255, 255)
+Animations.TextSize = 20.000
+Animations.TextStrokeTransparency = 0.000
+
+SaveTools.Name = "SaveTools"
+SaveTools.Parent = Page1
+SaveTools.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+SaveTools.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SaveTools.BorderSizePixel = 2
+SaveTools.Position = UDim2.new(0.605113566, 0, 0.43621397, 0)
+SaveTools.Size = UDim2.new(0, 124, 0, 30)
+SaveTools.Font = Enum.Font.SourceSans
+SaveTools.Text = "Save Tools"
+SaveTools.TextColor3 = Color3.fromRGB(255, 255, 255)
+SaveTools.TextSize = 20.000
+SaveTools.TextStrokeTransparency = 0.000
+
+AntiStomp.Name = "AntiStomp"
+AntiStomp.Parent = Page1
+AntiStomp.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+AntiStomp.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AntiStomp.BorderSizePixel = 2
+AntiStomp.Position = UDim2.new(0.799715817, 0, 0.43621397, 0)
+AntiStomp.Size = UDim2.new(0, 124, 0, 30)
+AntiStomp.Font = Enum.Font.SourceSans
+AntiStomp.Text = "Anti Stomp"
+AntiStomp.TextColor3 = Color3.fromRGB(255, 255, 255)
+AntiStomp.TextSize = 20.000
+AntiStomp.TextStrokeTransparency = 0.000
+
+Bypass1.Name = "Bypass1"
+Bypass1.Parent = Page1
+Bypass1.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Bypass1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Bypass1.BorderSizePixel = 2
+Bypass1.Position = UDim2.new(0.0227272734, 0, 0.613168716, 0)
+Bypass1.Size = UDim2.new(0, 124, 0, 30)
+Bypass1.Font = Enum.Font.SourceSans
+Bypass1.Text = "Simple Bypass"
+Bypass1.TextColor3 = Color3.fromRGB(255, 255, 255)
+Bypass1.TextSize = 20.000
+Bypass1.TextStrokeTransparency = 0.000
+
+VoidGui.Name = "VoidGui"
+VoidGui.Parent = Page1
+VoidGui.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+VoidGui.BorderColor3 = Color3.fromRGB(0, 0, 0)
+VoidGui.BorderSizePixel = 2
+VoidGui.Position = UDim2.new(0.221590891, 0, 0.613168716, 0)
+VoidGui.Size = UDim2.new(0, 124, 0, 30)
+VoidGui.Font = Enum.Font.SourceSans
+VoidGui.Text = "Void GUI"
+VoidGui.TextColor3 = Color3.fromRGB(255, 255, 255)
+VoidGui.TextSize = 20.000
+VoidGui.TextStrokeTransparency = 0.000
+
+UnknownX.Name = "UnknownX"
+UnknownX.Parent = Page1
+UnknownX.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+UnknownX.BorderColor3 = Color3.fromRGB(0, 0, 0)
+UnknownX.BorderSizePixel = 2
+UnknownX.Position = UDim2.new(0.413352281, 0, 0.613168716, 0)
+UnknownX.Size = UDim2.new(0, 124, 0, 30)
+UnknownX.Font = Enum.Font.SourceSans
+UnknownX.Text = "UnknownX"
+UnknownX.TextColor3 = Color3.fromRGB(255, 255, 255)
+UnknownX.TextSize = 20.000
+UnknownX.TextStrokeTransparency = 0.000
+
+AntiVoid.Name = "AntiVoid"
+AntiVoid.Parent = Page1
+AntiVoid.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+AntiVoid.BorderColor3 = Color3.fromRGB(0, 0, 0)
+AntiVoid.BorderSizePixel = 2
+AntiVoid.Position = UDim2.new(0.605113566, 0, 0.613168716, 0)
+AntiVoid.Size = UDim2.new(0, 124, 0, 30)
+AntiVoid.Font = Enum.Font.SourceSans
+AntiVoid.Text = "Anti Void"
+AntiVoid.TextColor3 = Color3.fromRGB(255, 255, 255)
+AntiVoid.TextSize = 20.000
+AntiVoid.TextStrokeTransparency = 0.000
+
+InfRun.Name = "InfRun"
+InfRun.Parent = Page1
+InfRun.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+InfRun.BorderColor3 = Color3.fromRGB(0, 0, 0)
+InfRun.BorderSizePixel = 2
+InfRun.Position = UDim2.new(0.799715817, 0, 0.613168716, 0)
+InfRun.Size = UDim2.new(0, 124, 0, 30)
+InfRun.Font = Enum.Font.SourceSans
+InfRun.Text = "Infinite Run"
+InfRun.TextColor3 = Color3.fromRGB(255, 255, 255)
+InfRun.TextSize = 20.000
+InfRun.TextStrokeTransparency = 0.000
+
+Bypass2.Name = "Bypass2"
+Bypass2.Parent = Page1
+Bypass2.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Bypass2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Bypass2.BorderSizePixel = 2
+Bypass2.Position = UDim2.new(0.0227272734, 0, 0.777777791, 0)
+Bypass2.Size = UDim2.new(0, 124, 0, 30)
+Bypass2.Font = Enum.Font.SourceSans
+Bypass2.Text = "Full Bypass (kinda)"
+Bypass2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Bypass2.TextSize = 18.000
+Bypass2.TextStrokeTransparency = 0.000
+
+TouchVoid.Name = "TouchVoid"
+TouchVoid.Parent = Page1
+TouchVoid.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+TouchVoid.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TouchVoid.BorderSizePixel = 2
+TouchVoid.Position = UDim2.new(0.221590891, 0, 0.777777791, 0)
+TouchVoid.Size = UDim2.new(0, 124, 0, 30)
+TouchVoid.Font = Enum.Font.SourceSans
+TouchVoid.Text = "Touch Void"
+TouchVoid.TextColor3 = Color3.fromRGB(255, 255, 255)
+TouchVoid.TextSize = 20.000
+TouchVoid.TextStrokeTransparency = 0.000
+
+GUITEST.Name = "GUITEST"
+GUITEST.Parent = Page1
+GUITEST.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+GUITEST.BorderColor3 = Color3.fromRGB(0, 0, 0)
+GUITEST.BorderSizePixel = 2
+GUITEST.Position = UDim2.new(0.413352281, 0, 0.777777791, 0)
+GUITEST.Size = UDim2.new(0, 124, 0, 30)
+GUITEST.Font = Enum.Font.SourceSans
+GUITEST.Text = "GUITEST"
+GUITEST.TextColor3 = Color3.fromRGB(255, 255, 255)
+GUITEST.TextSize = 20.000
+GUITEST.TextStrokeTransparency = 0.000
+
+Btools.Name = "Btools"
+Btools.Parent = Page1
+Btools.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Btools.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Btools.BorderSizePixel = 2
+Btools.Position = UDim2.new(0.605113566, 0, 0.777777791, 0)
+Btools.Size = UDim2.new(0, 124, 0, 30)
+Btools.Font = Enum.Font.SourceSans
+Btools.Text = "Btools"
+Btools.TextColor3 = Color3.fromRGB(255, 255, 255)
+Btools.TextSize = 20.000
+Btools.TextStrokeTransparency = 0.000
+
+InvisFling.Name = "InvisFling"
+InvisFling.Parent = Page1
+InvisFling.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+InvisFling.BorderColor3 = Color3.fromRGB(0, 0, 0)
+InvisFling.BorderSizePixel = 2
+InvisFling.Position = UDim2.new(0.799715817, 0, 0.777777791, 0)
+InvisFling.Size = UDim2.new(0, 124, 0, 30)
+InvisFling.Font = Enum.Font.SourceSans
+InvisFling.Text = "Invisible Fling"
+InvisFling.TextColor3 = Color3.fromRGB(255, 255, 255)
+InvisFling.TextSize = 20.000
+InvisFling.TextStrokeTransparency = 0.000
+
+TextLabel_4.Parent = Page1
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0.023, 0, 0.0149999997, 0)
+TextLabel_4.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_4.ZIndex = 2
+TextLabel_4.Font = Enum.Font.SourceSans
+TextLabel_4.Text = "Admin/Bypass"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextSize = 18.000
+TextLabel_4.TextStrokeTransparency = 0.000
+
+TextLabel_5.Parent = Page1
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BackgroundTransparency = 1.000
+TextLabel_5.Position = UDim2.new(0.220443189, 0, 0.0149999997, 0)
+TextLabel_5.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_5.ZIndex = 2
+TextLabel_5.Font = Enum.Font.SourceSans
+TextLabel_5.Text = "Fly/Food/Void"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextSize = 18.000
+TextLabel_5.TextStrokeTransparency = 0.000
+
+TextLabel_6.Parent = Page1
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BackgroundTransparency = 1.000
+TextLabel_6.Position = UDim2.new(0.412204534, 0, 0.0149999997, 0)
+TextLabel_6.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_6.ZIndex = 2
+TextLabel_6.Font = Enum.Font.SourceSans
+TextLabel_6.Text = "Speed/Misc."
+TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.TextSize = 18.000
+TextLabel_6.TextStrokeTransparency = 0.000
+
+TextLabel_7.Parent = Page1
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.BackgroundTransparency = 1.000
+TextLabel_7.Position = UDim2.new(0.609647751, 0, 0.0149999997, 0)
+TextLabel_7.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_7.ZIndex = 2
+TextLabel_7.Font = Enum.Font.SourceSans
+TextLabel_7.Text = "Tools"
+TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.TextSize = 18.000
+TextLabel_7.TextStrokeTransparency = 0.000
+
+TextLabel_8.Parent = Page1
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.BackgroundTransparency = 1.000
+TextLabel_8.Position = UDim2.new(0.798568189, 0, 0.0149999997, 0)
+TextLabel_8.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_8.ZIndex = 2
+TextLabel_8.Font = Enum.Font.SourceSans
+TextLabel_8.Text = "Tools/Misc."
+TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.TextSize = 18.000
+TextLabel_8.TextStrokeTransparency = 0.000
+
+ct1.Name = "ct1"
+ct1.Parent = Page1
+ct1.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+ct1.BackgroundTransparency = 1.000
+ct1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ct1.BorderSizePixel = 0
+ct1.Position = UDim2.new(0.00187197595, 0, -0.00823045243, 0)
+ct1.Size = UDim2.new(0, 147, 0, 241)
+ct1.ZIndex = 3
+
+ct2.Name = "ct2"
+ct2.Parent = Page1
+ct2.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+ct2.BackgroundTransparency = 1.000
+ct2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ct2.BorderSizePixel = 0
+ct2.Position = UDim2.new(0.210678801, 0, -0.00823045243, 0)
+ct2.Size = UDim2.new(0, 139, 0, 242)
+ct2.ZIndex = 3
+
+ct3.Name = "ct3"
+ct3.Parent = Page1
+ct3.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+ct3.BackgroundTransparency = 1.000
+ct3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ct3.BorderSizePixel = 0
+ct3.Position = UDim2.new(0.408121973, 0, 0.00823045243, 0)
+ct3.Size = UDim2.new(0, 130, 0, 237)
+ct3.ZIndex = 3
+
+ct4.Name = "ct4"
+ct4.Parent = Page1
+ct4.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+ct4.BackgroundTransparency = 1.000
+ct4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ct4.BorderSizePixel = 0
+ct4.Position = UDim2.new(0.592781067, 0, 0, 0)
+ct4.Size = UDim2.new(0, 135, 0, 240)
+ct4.ZIndex = 3
+
+ct5.Name = "ct5"
+ct5.Parent = Page1
+ct5.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+ct5.BackgroundTransparency = 1.000
+ct5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ct5.BorderSizePixel = 0
+ct5.Position = UDim2.new(0.784542441, 0, 0.00823045243, 0)
+ct5.Size = UDim2.new(0, 153, 0, 237)
+ct5.ZIndex = 3
+
+ImageLabel_3.Parent = Page1
+ImageLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_3.BackgroundTransparency = 1.000
+ImageLabel_3.BorderSizePixel = 0
+ImageLabel_3.Size = UDim2.new(0, 701, 0, 238)
+ImageLabel_3.ZIndex = 7
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=4758536231"
+ImageLabel_3.ImageTransparency = 0.700
+
+Page2.Name = "Page2"
+Page2.Parent = Pages
+Page2.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+Page2.BackgroundTransparency = 1.000
+Page2.BorderSizePixel = 0
+Page2.Position = UDim2.new(0, 0, -0.000270002987, 0)
+Page2.Size = UDim2.new(0, 704, 0, 243)
+Page2.ZIndex = 10
+
+TextLabel_9.Parent = Page2
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.BackgroundTransparency = 1.000
+TextLabel_9.Position = UDim2.new(0.0613522753, 0, 0.105534978, 0)
+TextLabel_9.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_9.ZIndex = 2
+TextLabel_9.Font = Enum.Font.SourceSans
+TextLabel_9.Text = "Tools/Misc."
+TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.TextSize = 18.000
+TextLabel_9.TextStrokeTransparency = 0.000
+
+ToolDrop.Name = "ToolDrop"
+ToolDrop.Parent = Page2
+ToolDrop.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+ToolDrop.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ToolDrop.BorderSizePixel = 2
+ToolDrop.Position = UDim2.new(0.0596590117, 0, 0.530864179, 0)
+ToolDrop.Size = UDim2.new(0, 124, 0, 30)
+ToolDrop.Font = Enum.Font.SourceSans
+ToolDrop.Text = "Enable Tool Drop"
+ToolDrop.TextColor3 = Color3.fromRGB(255, 255, 255)
+ToolDrop.TextSize = 20.000
+ToolDrop.TextStrokeTransparency = 0.000
+
+NoSlow.Name = "NoSlow"
+NoSlow.Parent = Page2
+NoSlow.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+NoSlow.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NoSlow.BorderSizePixel = 2
+NoSlow.Position = UDim2.new(0.0596590117, 0, 0.699588478, 0)
+NoSlow.Size = UDim2.new(0, 124, 0, 30)
+NoSlow.Font = Enum.Font.SourceSans
+NoSlow.Text = "No Slow/SWD"
+NoSlow.TextColor3 = Color3.fromRGB(255, 255, 255)
+NoSlow.TextSize = 20.000
+NoSlow.TextStrokeTransparency = 0.000
+
+GodAnim.Name = "GodAnim"
+GodAnim.Parent = Page2
+GodAnim.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+GodAnim.BorderColor3 = Color3.fromRGB(0, 0, 0)
+GodAnim.BorderSizePixel = 2
+GodAnim.Position = UDim2.new(0.0610795468, 0, 0.185185194, 0)
+GodAnim.Size = UDim2.new(0, 124, 0, 30)
+GodAnim.Font = Enum.Font.SourceSans
+GodAnim.Text = "God Animations"
+GodAnim.TextColor3 = Color3.fromRGB(255, 255, 255)
+GodAnim.TextSize = 20.000
+GodAnim.TextStrokeTransparency = 0.000
+
+DropAll.Name = "DropAll"
+DropAll.Parent = Page2
+DropAll.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+DropAll.BorderColor3 = Color3.fromRGB(0, 0, 0)
+DropAll.BorderSizePixel = 2
+DropAll.Position = UDim2.new(0.0596590862, 0, 0.353909492, 0)
+DropAll.Size = UDim2.new(0, 124, 0, 30)
+DropAll.Font = Enum.Font.SourceSans
+DropAll.Text = "Drop All Tools"
+DropAll.TextColor3 = Color3.fromRGB(255, 255, 255)
+DropAll.TextSize = 20.000
+DropAll.TextStrokeTransparency = 0.000
+
+Bbb.Name = "Bbb"
+Bbb.Parent = Page2
+Bbb.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Bbb.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Bbb.BorderSizePixel = 2
+Bbb.Position = UDim2.new(0.264204472, 0, 0.185185164, 0)
+Bbb.Size = UDim2.new(0, 124, 0, 30)
+Bbb.Font = Enum.Font.SourceSans
+Bbb.Text = "Booga Fricker"
+Bbb.TextColor3 = Color3.fromRGB(255, 255, 255)
+Bbb.TextSize = 20.000
+Bbb.TextStrokeTransparency = 0.000
+
+TextLabel_10.Parent = Page2
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_10.BackgroundTransparency = 1.000
+TextLabel_10.Position = UDim2.new(0.365329564, 0, 0.105534978, 0)
+TextLabel_10.Size = UDim2.new(0, 124, 0, 15)
+TextLabel_10.ZIndex = 2
+TextLabel_10.Font = Enum.Font.SourceSans
+TextLabel_10.Text = "vo_xo's stuff i use"
+TextLabel_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_10.TextSize = 18.000
+TextLabel_10.TextStrokeTransparency = 0.000
+
+logs.Name = "logs"
+logs.Parent = Page2
+logs.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+logs.BackgroundTransparency = 1.000
+logs.BorderColor3 = Color3.fromRGB(0, 0, 0)
+logs.Position = UDim2.new(0.675624669, 0, 0.000327781396, 0)
+logs.Size = UDim2.new(0, 230, 0, 239)
+logs.ZIndex = 5
+logs.Font = Enum.Font.SciFi
+logs.Text = "Notes for 1.5.4: Fixed/tweaked some things, also added the icon to the open button."
+logs.TextColor3 = Color3.fromRGB(255, 255, 255)
+logs.TextSize = 26.000
+logs.TextStrokeTransparency = 0.000
+logs.TextWrapped = true
+
+ANTSTOMP.Name = "ANTSTOMP"
+ANTSTOMP.Parent = Page2
+ANTSTOMP.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+ANTSTOMP.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ANTSTOMP.BorderSizePixel = 2
+ANTSTOMP.Position = UDim2.new(0.264204472, 0, 0.353909433, 0)
+ANTSTOMP.Size = UDim2.new(0, 124, 0, 30)
+ANTSTOMP.Font = Enum.Font.SourceSans
+ANTSTOMP.Text = "Anti Stomp"
+ANTSTOMP.TextColor3 = Color3.fromRGB(255, 255, 255)
+ANTSTOMP.TextSize = 20.000
+ANTSTOMP.TextStrokeTransparency = 0.000
+
+INFRUn.Name = "INFRUn"
+INFRUn.Parent = Page2
+INFRUn.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+INFRUn.BorderColor3 = Color3.fromRGB(0, 0, 0)
+INFRUn.BorderSizePixel = 2
+INFRUn.Position = UDim2.new(0.264204472, 0, 0.530864179, 0)
+INFRUn.Size = UDim2.new(0, 124, 0, 30)
+INFRUn.Font = Enum.Font.SourceSans
+INFRUn.Text = "Infinite Run"
+INFRUn.TextColor3 = Color3.fromRGB(255, 255, 255)
+INFRUn.TextSize = 20.000
+INFRUn.TextStrokeTransparency = 0.000
+
+chikcne.Name = "chikcne"
+chikcne.Parent = Page2
+chikcne.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+chikcne.BorderColor3 = Color3.fromRGB(0, 0, 0)
+chikcne.BorderSizePixel = 2
+chikcne.Position = UDim2.new(0.264204472, 0, 0.699588478, 0)
+chikcne.Size = UDim2.new(0, 124, 0, 30)
+chikcne.Font = Enum.Font.SourceSans
+chikcne.Text = "Chicken GUI"
+chikcne.TextColor3 = Color3.fromRGB(255, 255, 255)
+chikcne.TextSize = 20.000
+chikcne.TextStrokeTransparency = 0.000
+
+GAN.Name = "GAN"
+GAN.Parent = Page2
+GAN.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+GAN.BorderColor3 = Color3.fromRGB(0, 0, 0)
+GAN.BorderSizePixel = 2
+GAN.Position = UDim2.new(0.454545379, 0, 0.185185164, 0)
+GAN.Size = UDim2.new(0, 124, 0, 30)
+GAN.Font = Enum.Font.SourceSans
+GAN.Text = "God Anims"
+GAN.TextColor3 = Color3.fromRGB(255, 255, 255)
+GAN.TextSize = 20.000
+GAN.TextStrokeTransparency = 0.000
+
+toolkitss.Name = "toolkitss"
+toolkitss.Parent = Page2
+toolkitss.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+toolkitss.BorderColor3 = Color3.fromRGB(0, 0, 0)
+toolkitss.BorderSizePixel = 2
+toolkitss.Position = UDim2.new(0.454545379, 0, 0.353909433, 0)
+toolkitss.Size = UDim2.new(0, 124, 0, 30)
+toolkitss.Font = Enum.Font.SourceSans
+toolkitss.Text = "TS2oolkit"
+toolkitss.TextColor3 = Color3.fromRGB(255, 255, 255)
+toolkitss.TextSize = 20.000
+toolkitss.TextStrokeTransparency = 0.000
+
+CFLY.Name = "CFLY"
+CFLY.Parent = Page2
+CFLY.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+CFLY.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CFLY.BorderSizePixel = 2
+CFLY.Position = UDim2.new(0.454545379, 0, 0.530864179, 0)
+CFLY.Size = UDim2.new(0, 124, 0, 30)
+CFLY.Font = Enum.Font.SourceSans
+CFLY.Text = "Car Fly (Old)"
+CFLY.TextColor3 = Color3.fromRGB(255, 255, 255)
+CFLY.TextSize = 20.000
+CFLY.TextStrokeTransparency = 0.000
+
+SMOF.Name = "SMOF"
+SMOF.Parent = Page2
+SMOF.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+SMOF.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SMOF.BorderSizePixel = 2
+SMOF.Position = UDim2.new(0.454545379, 0, 0.699588478, 0)
+SMOF.Size = UDim2.new(0, 124, 0, 30)
+SMOF.Font = Enum.Font.SourceSans
+SMOF.Text = "Smooth Fly"
+SMOF.TextColor3 = Color3.fromRGB(255, 255, 255)
+SMOF.TextSize = 20.000
+SMOF.TextStrokeTransparency = 0.000
+
+ImageLabel_4.Parent = Page2
+ImageLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_4.BackgroundTransparency = 1.000
+ImageLabel_4.BorderSizePixel = 0
+ImageLabel_4.Position = UDim2.new(0.0369318165, 0, 0.105534934, 0)
+ImageLabel_4.Size = UDim2.new(0, 434, 0, 199)
+ImageLabel_4.ZIndex = 7
+ImageLabel_4.Image = "http://www.roblox.com/asset/?id=4758536472"
+ImageLabel_4.ImageTransparency = 0.700
+
+Page3.Name = "Page3"
+Page3.Parent = Pages
+Page3.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+Page3.BackgroundTransparency = 1.000
+Page3.BorderSizePixel = 0
+Page3.Position = UDim2.new(0, 0, -0.000270002987, 0)
+Page3.Size = UDim2.new(0, 704, 0, 243)
+Page3.ZIndex = 10
+
+TextLabel_11.Parent = Page3
+TextLabel_11.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_11.BackgroundTransparency = 1.000
+TextLabel_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_11.BorderSizePixel = 0
+TextLabel_11.Position = UDim2.new(0.00568181835, 0, 0.000327781396, 0)
+TextLabel_11.Size = UDim2.new(0, 404, 0, 239)
+TextLabel_11.ZIndex = 5
+TextLabel_11.Font = Enum.Font.SciFi
+TextLabel_11.Text = "Sharkyy Discord: https://discord.gg/MZ9bCzZ"
+TextLabel_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_11.TextSize = 30.000
+TextLabel_11.TextStrokeTransparency = 0.000
+TextLabel_11.TextWrapped = true
+
+TextLabel_12.Parent = Page3
+TextLabel_12.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_12.BackgroundTransparency = 1.000
+TextLabel_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_12.BorderSizePixel = 0
+TextLabel_12.Position = UDim2.new(0.58045423, 0, 0.000327781396, 0)
+TextLabel_12.Size = UDim2.new(0, 154, 0, 239)
+TextLabel_12.ZIndex = 5
+TextLabel_12.Font = Enum.Font.SciFi
+TextLabel_12.Text = "vo_xo#0001  Thanks Aidez, AZ123, Domidice, Boogs, and all other script creators!"
+TextLabel_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_12.TextSize = 26.000
+TextLabel_12.TextStrokeTransparency = 0.000
+TextLabel_12.TextWrapped = true
+
+TextLabel_13.Parent = Page3
+TextLabel_13.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_13.BackgroundTransparency = 1.000
+TextLabel_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_13.BorderSizePixel = 0
+TextLabel_13.Position = UDim2.new(0.989545107, 0, 0.000327781396, 0)
+TextLabel_13.Size = UDim2.new(0, 306, 0, 239)
+TextLabel_13.ZIndex = 5
+TextLabel_13.Font = Enum.Font.SciFi
+TextLabel_13.Text = ""
+TextLabel_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_13.TextSize = 30.000
+TextLabel_13.TextStrokeTransparency = 0.000
+TextLabel_13.TextWrapped = true
+
+TextLabel_14.Parent = Page3
+TextLabel_14.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_14.BackgroundTransparency = 1.000
+TextLabel_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_14.BorderSizePixel = 0
+TextLabel_14.Position = UDim2.new(0.79920423, 0, 0.000327781396, 0)
+TextLabel_14.Size = UDim2.new(0, 140, 0, 239)
+TextLabel_14.ZIndex = 5
+TextLabel_14.Font = Enum.Font.SciFi
+TextLabel_14.Text = "\"sharkyy best script hub\"                   - some dude, 2020"
+TextLabel_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_14.TextSize = 26.000
+TextLabel_14.TextStrokeTransparency = 0.000
+TextLabel_14.TextWrapped = true
+
+apel.Name = "apel"
+apel.Parent = Page3
+apel.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+apel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+apel.BorderSizePixel = 2
+apel.Position = UDim2.new(0.826704502, 0, 0, 0)
+apel.Size = UDim2.new(0, 124, 0, 30)
+apel.ZIndex = 6
+apel.Font = Enum.Font.SourceSans
+apel.Text = "apel pie"
+apel.TextColor3 = Color3.fromRGB(255, 255, 255)
+apel.TextSize = 20.000
+apel.TextStrokeTransparency = 0.000
+
+ImageLabel_5.Parent = Page3
+ImageLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_5.BackgroundTransparency = 1.000
+ImageLabel_5.BorderSizePixel = 0
+ImageLabel_5.Position = UDim2.new(0.826704562, 0, -0.00790267158, 0)
+ImageLabel_5.Size = UDim2.new(0, 130, 0, 39)
+ImageLabel_5.ZIndex = 7
+ImageLabel_5.Image = "http://www.roblox.com/asset/?id=4758536472"
+ImageLabel_5.ImageTransparency = 0.700
+
+funnyjoke.Name = "funnyjoke"
+funnyjoke.Parent = stuff
+funnyjoke.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+funnyjoke.BackgroundTransparency = 1.000
+funnyjoke.Position = UDim2.new(0.374991089, 0, 0.217032969, 0)
+funnyjoke.Size = UDim2.new(0, 219, 0, 218)
+funnyjoke.ZIndex = 100
+funnyjoke.Image = "http://www.roblox.com/asset/?id=4650461862"
+funnyjoke.ImageTransparency = 1.000
+
+yesorno.Name = "yesorno"
+yesorno.Parent = stuff
+yesorno.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+yesorno.BorderColor3 = Color3.fromRGB(0, 0, 0)
+yesorno.BorderSizePixel = 0
+yesorno.ClipsDescendants = true
+yesorno.Position = UDim2.new(0.00328776031, 0, 0.184972852, 0)
+yesorno.Size = UDim2.new(0, 701, 0, 1)
+yesorno.ZIndex = 100
+
+TextLabel_15.Parent = yesorno
+TextLabel_15.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_15.BackgroundTransparency = 1.000
+TextLabel_15.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_15.BorderSizePixel = 0
+TextLabel_15.Position = UDim2.new(0.108148821, 0, 0.21938926, 0)
+TextLabel_15.Size = UDim2.new(0, 586, 0, 75)
+TextLabel_15.ZIndex = 5
+TextLabel_15.Font = Enum.Font.SciFi
+TextLabel_15.Text = "music?"
+TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_15.TextSize = 30.000
+TextLabel_15.TextStrokeTransparency = 0.000
+
+NOPLS.Name = "NOPLS"
+NOPLS.Parent = yesorno
+NOPLS.BackgroundColor3 = Color3.fromRGB(125, 0, 0)
+NOPLS.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NOPLS.BorderSizePixel = 2
+NOPLS.Position = UDim2.new(0.55707413, 0, 0.62519747, 0)
+NOPLS.Size = UDim2.new(0, 272, 0, 52)
+NOPLS.ZIndex = 5
+NOPLS.Font = Enum.Font.SourceSans
+NOPLS.Text = "no"
+NOPLS.TextColor3 = Color3.fromRGB(255, 255, 255)
+NOPLS.TextScaled = true
+NOPLS.TextSize = 40.000
+NOPLS.TextStrokeTransparency = 0.000
+NOPLS.TextWrapped = true
+
+UHHUH.Name = "UHHUH"
+UHHUH.Parent = yesorno
+UHHUH.BackgroundColor3 = Color3.fromRGB(23, 125, 0)
+UHHUH.BorderColor3 = Color3.fromRGB(0, 0, 0)
+UHHUH.BorderSizePixel = 2
+UHHUH.Position = UDim2.new(0.0572246052, 0, 0.62519747, 0)
+UHHUH.Size = UDim2.new(0, 272, 0, 52)
+UHHUH.ZIndex = 5
+UHHUH.Font = Enum.Font.SourceSans
+UHHUH.Text = "minecraf time babeyy"
+UHHUH.TextColor3 = Color3.fromRGB(255, 255, 255)
+UHHUH.TextScaled = true
+UHHUH.TextSize = 40.000
+UHHUH.TextStrokeTransparency = 0.000
+UHHUH.TextWrapped = true
+
+TextLabel_16.Parent = yesorno
+TextLabel_16.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+TextLabel_16.BackgroundTransparency = 1.000
+TextLabel_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_16.BorderSizePixel = 0
+TextLabel_16.Position = UDim2.new(0.0262279212, 0, 0.0774537623, 0)
+TextLabel_16.Size = UDim2.new(0, 705, 0, 30)
+TextLabel_16.ZIndex = 5
+TextLabel_16.Font = Enum.Font.SciFi
+TextLabel_16.Text = "Sharkyy V4"
+TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_16.TextSize = 50.000
+TextLabel_16.TextStrokeTransparency = 0.000
+
+counter.Name = "counter"
+counter.Parent = yesorno
+counter.BackgroundColor3 = Color3.fromRGB(97, 97, 97)
+counter.BackgroundTransparency = 1.000
+counter.BorderColor3 = Color3.fromRGB(0, 0, 0)
+counter.BorderSizePixel = 0
+counter.Position = UDim2.new(0.848917246, 0, 0.223590925, 0)
+counter.Size = UDim2.new(0, 87, 0, 75)
+counter.ZIndex = 5
+counter.Font = Enum.Font.SciFi
+counter.Text = "15"
+counter.TextColor3 = Color3.fromRGB(255, 255, 255)
+counter.TextSize = 30.000
+counter.TextStrokeTransparency = 0.000
+
+ImageLabel_6.Parent = yesorno
+ImageLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_6.BackgroundTransparency = 1.000
+ImageLabel_6.Position = UDim2.new(-0.47193706, 0, -0.614406765, 0)
+ImageLabel_6.Size = UDim2.new(0, 1227, 0, 673)
+ImageLabel_6.Image = "http://www.roblox.com/asset/?id=4758472213"
+
+logo2.Name = "logo2"
+logo2.Parent = stuff
+logo2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+logo2.BackgroundTransparency = 1.000
+logo2.Position = UDim2.new(0, 0, -0.00824175775, 0)
+logo2.Size = UDim2.new(0, 72, 0, 72)
+logo2.ZIndex = 100
+logo2.Image = "http://www.roblox.com/asset/?id=4655673517"
+
+logo3.Name = "logo3"
+logo3.Parent = stuff
+logo3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+logo3.BackgroundTransparency = 1.000
+logo3.Position = UDim2.new(0, 0, -0.00824175775, 0)
+logo3.Size = UDim2.new(0, 72, 0, 72)
+logo3.ZIndex = 100
+logo3.Image = "http://www.roblox.com/asset/?id=4655673592"
+
+logo4.Name = "logo4"
+logo4.Parent = stuff
+logo4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+logo4.BackgroundTransparency = 1.000
+logo4.Position = UDim2.new(0, 0, -0.00824175775, 0)
+logo4.Size = UDim2.new(0, 72, 0, 72)
+logo4.ZIndex = 100
+logo4.Image = "http://www.roblox.com/asset/?id=4655673727"
+
+Disable.Name = "Disable"
+Disable.Parent = stuff
+Disable.BackgroundColor3 = Color3.fromRGB(95, 53, 54)
+Disable.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Disable.BorderSizePixel = 2
+Disable.ClipsDescendants = true
+Disable.Position = UDim2.new(0.776088417, 0, -0.00150357757, 0)
+Disable.Size = UDim2.new(0, 91, 0, 34)
+Disable.ZIndex = 8
+Disable.Font = Enum.Font.SourceSans
+Disable.Text = "DISABLE"
+Disable.TextColor3 = Color3.fromRGB(255, 255, 255)
+Disable.TextSize = 20.000
+Disable.TextStrokeTransparency = 0.000
+Disable.TextXAlignment = Enum.TextXAlignment.Left
+
+Disable_2.Name = "Disable"
+Disable_2.Parent = Disable
+Disable_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Disable_2.BackgroundTransparency = 1.000
+Disable_2.Position = UDim2.new(0.656461954, 0, 0.0615707859, 0)
+Disable_2.Size = UDim2.new(0, 29, 0, 29)
+Disable_2.ZIndex = 999999999
+Disable_2.Image = "http://www.roblox.com/asset/?id=4650461862"
+
+Open.Name = "Open"
+Open.Parent = notascript
+Open.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+Open.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Open.BorderSizePixel = 0
+Open.ClipsDescendants = true
+Open.Position = UDim2.new(0.453922749, 0, -0.00102347077, 0)
+Open.Size = UDim2.new(0, 141, 0, 0)
+Open.ZIndex = 999999999
+Open.Font = Enum.Font.SourceSans
+Open.Text = "Open Sharkyy V4 (F2)"
+Open.TextColor3 = Color3.fromRGB(255, 255, 255)
+Open.TextSize = 15.000
+Open.TextStrokeTransparency = 0.000
+Open.TextWrapped = true
+Open.TextXAlignment = Enum.TextXAlignment.Left
+
+ImageLabel_7.Parent = Open
+ImageLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_7.BackgroundTransparency = 1.000
+ImageLabel_7.Position = UDim2.new(-0.617021322, 0, -1.77142859, 0)
+ImageLabel_7.Size = UDim2.new(0, 289, 0, 179)
+ImageLabel_7.Image = "http://www.roblox.com/asset/?id=4758472213"
+ImageLabel_7.ImageTransparency = 0.700
+
+a.Name = "a"
+a.Parent = Open
+a.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+a.BackgroundTransparency = 1.000
+a.Position = UDim2.new(0.787234068, 0, 5.44956755e-08, 0)
+a.Size = UDim2.new(0, 30, 0, 35)
+a.ZIndex = 10
+a.Image = "http://www.roblox.com/asset/?id=4655673440"
+
+b.Name = "b"
+b.Parent = Open
+b.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+b.BackgroundTransparency = 1.000
+b.Position = UDim2.new(0.787234068, 0, 5.44956755e-08, 0)
+b.Size = UDim2.new(0, 30, 0, 35)
+b.Visible = false
+b.ZIndex = 10
+b.Image = "http://www.roblox.com/asset/?id=4655673517"
+
+c.Name = "c"
+c.Parent = Open
+c.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+c.BackgroundTransparency = 1.000
+c.Position = UDim2.new(0.787234068, 0, 5.44956755e-08, 0)
+c.Size = UDim2.new(0, 30, 0, 35)
+c.Visible = false
+c.ZIndex = 10
+c.Image = "http://www.roblox.com/asset/?id=4655673592"
+
+d.Name = "d"
+d.Parent = Open
+d.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+d.BackgroundTransparency = 1.000
+d.Position = UDim2.new(0.787234068, 0, 5.44956755e-08, 0)
+d.Size = UDim2.new(0, 30, 0, 35)
+d.Visible = false
+d.ZIndex = 10
+d.Image = "http://www.roblox.com/asset/?id=4655673727"
+
+Startup.Name = "Startup"
+Startup.Parent = notascript
+Startup.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+Startup.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Startup.BorderSizePixel = 0
+Startup.ClipsDescendants = true
+Startup.Position = UDim2.new(0.364900678, 0, 0.361650497, 0)
+Startup.Size = UDim2.new(0, 450, 0, 0)
+
+f1.Name = "f1"
+f1.Parent = Startup
+f1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+f1.BackgroundTransparency = 1.000
+f1.BorderSizePixel = 0
+f1.Position = UDim2.new(0.304444432, 0, 0.0280000046, 0)
+f1.Size = UDim2.new(0, 175, 0, 175)
+f1.ZIndex = 2
+f1.Image = "http://www.roblox.com/asset/?id=4655673440"
+
+TextLabel_17.Parent = Startup
+TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_17.BackgroundTransparency = 1.000
+TextLabel_17.BorderColor3 = Color3.fromRGB(97, 1, 79)
+TextLabel_17.BorderSizePixel = 0
+TextLabel_17.Position = UDim2.new(0.0333333313, 0, 0.727999985, 0)
+TextLabel_17.Size = UDim2.new(0, 420, 0, 59)
+TextLabel_17.ZIndex = 2
+TextLabel_17.Font = Enum.Font.SourceSansLight
+TextLabel_17.Text = "ah hah ha"
+TextLabel_17.TextColor3 = Color3.fromRGB(19, 255, 228)
+TextLabel_17.TextSize = 50.000
+TextLabel_17.TextStrokeTransparency = 0.000
+TextLabel_17.TextWrapped = true
+
+Frame.Parent = Startup
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BorderSizePixel = 0
+Frame.Size = UDim2.new(0, 0, 0, 7)
+Frame.ZIndex = 3
+
+f2.Name = "f2"
+f2.Parent = Startup
+f2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+f2.BackgroundTransparency = 1.000
+f2.BorderSizePixel = 0
+f2.Position = UDim2.new(0.304444432, 0, 0.0280000046, 0)
+f2.Size = UDim2.new(0, 175, 0, 175)
+f2.Visible = false
+f2.ZIndex = 2
+f2.Image = "http://www.roblox.com/asset/?id=4655673517"
+
+f3.Name = "f3"
+f3.Parent = Startup
+f3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+f3.BackgroundTransparency = 1.000
+f3.BorderSizePixel = 0
+f3.Position = UDim2.new(0.304444432, 0, 0.0280000046, 0)
+f3.Size = UDim2.new(0, 175, 0, 175)
+f3.Visible = false
+f3.ZIndex = 2
+f3.Image = "http://www.roblox.com/asset/?id=4655673592"
+
+f4.Name = "f4"
+f4.Parent = Startup
+f4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+f4.BackgroundTransparency = 1.000
+f4.BorderSizePixel = 0
+f4.Position = UDim2.new(0.304444432, 0, 0.0280000046, 0)
+f4.Size = UDim2.new(0, 175, 0, 175)
+f4.Visible = false
+f4.ZIndex = 2
+f4.Image = "http://www.roblox.com/asset/?id=4655673727"
+
+ImageLabel_8.Parent = Startup
+ImageLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_8.BackgroundTransparency = 1.000
+ImageLabel_8.BorderSizePixel = 0
+ImageLabel_8.Size = UDim2.new(0, 450, 0, 250)
+ImageLabel_8.Image = "http://www.roblox.com/asset/?id=4758489449"
+
+mute.Name = "mute"
+mute.Parent = notascript
+mute.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+mute.Position = UDim2.new(-1, 0, -1, 0)
+
+pie.Name = "pie"
+pie.Parent = notascript
+pie.BackgroundColor3 = Color3.fromRGB(72, 72, 72)
+pie.BorderColor3 = Color3.fromRGB(0, 0, 0)
+pie.BorderSizePixel = 0
+pie.ClipsDescendants = true
+pie.Position = UDim2.new(0.0437085703, 0, 0.368932068, 0)
+pie.Size = UDim2.new(0, 259, 0, 0)
+pie.ZIndex = 999999999
+
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.Name = "mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm"
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.Parent = pie
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.BackgroundTransparency = 1.000
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.BorderSizePixel = 0
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.Size = UDim2.new(0, 259, 0, 235)
+mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.Image = "http://www.roblox.com/asset/?id=27064941"
+
+TextLabel_18.Parent = pie
+TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_18.BackgroundTransparency = 1.000
+TextLabel_18.Size = UDim2.new(0, 259, 0, 232)
+TextLabel_18.ZIndex = 2
+TextLabel_18.Font = Enum.Font.SourceSans
+TextLabel_18.Text = "IS THIS WHAT YOU WANTED?? (click to stop)"
+TextLabel_18.TextColor3 = Color3.fromRGB(247, 0, 255)
+TextLabel_18.TextScaled = true
+TextLabel_18.TextSize = 40.000
+TextLabel_18.TextStrokeTransparency = 0.000
+TextLabel_18.TextWrapped = true
+
+-- Scripts:
+
+local function ANIFHMZ_fake_script() -- Next.LocalScript 
+	local script = Instance.new('LocalScript', Next)
+
+	local chumby = script.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		chumby:Play()
+	end)
+end
+coroutine.wrap(ANIFHMZ_fake_script)()
+local function RKTXRA_fake_script() -- Prev.LocalScript 
+	local script = Instance.new('LocalScript', Prev)
+
+	local chumby = script.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		chumby:Play()
+	end)
+end
+coroutine.wrap(RKTXRA_fake_script)()
+local function IKAEFLS_fake_script() -- Exit.LocalScript 
+	local script = Instance.new('LocalScript', Exit)
+
+	local hahaha = script.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.USureAboutThat:TweenSize(UDim2.new(0, 703,0, 235), "Out", "Quart", 0.5)
+		script.Parent.Parent.USureAboutThat.BorderSizePixel = 3
+		hahaha:Play()
+	end)
+	
+	
+end
+coroutine.wrap(IKAEFLS_fake_script)()
+local function FCWEP_fake_script() -- Tab.LocalScript 
+	local script = Instance.new('LocalScript', Tab)
+
+	local bruhhh = script.Parent.Parent.Parent.Open
+	local nahchief = script.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		nahchief:Play()
+		script.Parent.Parent:TweenPosition(UDim2.new(0.266, 0,-1, 0), "In", "Quint", 0.8)
+		script.Parent.Parent.Parent.Open:TweenSize(UDim2.new(0, 141,0, 35), "In", "Sine", 0.8)
+		bruhhh.BorderSizePixel = 1
+		wait(0.3)
+		bruhhh.BorderSizePixel = 2
+		wait(0.4)
+		script.Parent.Parent.Parent.Open.TextStrokeTransparency = 0
+		script.Parent.Parent.Parent.Open.TextTransparency = 0
+		script.Parent.Parent.Visible = false
+	end)
+end
+coroutine.wrap(FCWEP_fake_script)()
+local function ZKMXPU_fake_script() -- stuff.LocalScript 
+	local script = Instance.new('LocalScript', stuff)
+
+	script.Parent:TweenPosition(UDim2.new(0.266, 0,0.278, 0), "Out", "Back", 0.8)
+	
+	local pageLayout = script.Parent.Pages.UIPageLayout
+	local BRUH = script.Parent.Prev
+	local BRUH2 = script.Parent.Next
+	
+	BRUH2.MouseButton1Click:connect(function()
+		pageLayout:Next()
+	end)
+	
+	BRUH.MouseButton1Click:connect(function()
+		pageLayout:Previous()
+	end)
+	
+	script.Parent.Active = true
+	script.Parent.Draggable = true
+end
+coroutine.wrap(ZKMXPU_fake_script)()
+local function BPGVNZM_fake_script() -- NAH.LocalScript 
+	local script = Instance.new('LocalScript', NAH)
+
+	local hahaha = script.Parent.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent:TweenSize(UDim2.new(0, 703,0, 0), "Out", "Quint", 0.5)
+		script.Parent.Parent.BorderSizePixel = 0
+		hahaha:Play()
+	end)
+end
+coroutine.wrap(BPGVNZM_fake_script)()
+local function SNCFC_fake_script() -- YEAH.LocalScript 
+	local script = Instance.new('LocalScript', YEAH)
+
+	local ahhahha = script.Parent.Parent.Parent.Parent.dangit
+	
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.Parent:TweenPosition(UDim2.new(0.266, 0,-1, 0), "In", "Quint", 0.8)
+		script.Parent.Parent:TweenSize(UDim2.new(0, 703,0, 0), "Out", "Quint", 0.5)
+		script.Parent.Parent.BorderSizePixel = 0
+		ahhahha:Play()
+		wait(0.7)
+		script.Parent.Parent.Parent:Destroy()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Successfully closed Sharkyy V4.";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(SNCFC_fake_script)()
+local function XBXK_fake_script() -- InfYield.LocalScript 
+	local script = Instance.new('LocalScript', InfYield)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Infinite Yield by Edge, ZWolf, and Moon!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(XBXK_fake_script)()
+local function FQWDWKD_fake_script() -- SmoothF.LocalScript 
+	local script = Instance.new('LocalScript', SmoothF)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/nQtnWye2"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Smooth Fly by az123(?(Press G))!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(FQWDWKD_fake_script)()
+local function CWGEHV_fake_script() -- Booga.LocalScript 
+	local script = Instance.new('LocalScript', Booga)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/YQM6TF70"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Booga Fricker!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(CWGEHV_fake_script)()
+local function AKHP_fake_script() -- GunD.LocalScript 
+	local script = Instance.new('LocalScript', GunD)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/cYq94NgJ"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Gun Dupe by Aidez!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(AKHP_fake_script)()
+local function BZNJ_fake_script() -- Kidnap.LocalScript 
+	local script = Instance.new('LocalScript', Kidnap)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/JTCT4b4X"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Kidnap by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(BZNJ_fake_script)()
+local function MCBOYO_fake_script() -- Reviz.LocalScript 
+	local script = Instance.new('LocalScript', Reviz)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/KNUzQPYS"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Reviz Admin by illremember!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(MCBOYO_fake_script)()
+local function NTFVYP_fake_script() -- CarFly.LocalScript 
+	local script = Instance.new('LocalScript', CarFly)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/vCRmUBWj"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Car Fly! (Press H)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(NTFVYP_fake_script)()
+local function KDWZZWC_fake_script() -- AudioL.LocalScript 
+	local script = Instance.new('LocalScript', AudioL)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/jx69WMfe"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Audio Logger by Edge!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(KDWZZWC_fake_script)()
+local function DXMM_fake_script() -- TS2ool.LocalScript 
+	local script = Instance.new('LocalScript', TS2ool)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/DSN1cfiV"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded TS2oolkit by Domidice and Boogs!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(DXMM_fake_script)()
+local function JQKXFH_fake_script() -- MoneyF.LocalScript 
+	local script = Instance.new('LocalScript', MoneyF)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet(('https://pastebin.com/raw/BZEPTZPV'),true))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Money Finder! (Hold U)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(JQKXFH_fake_script)()
+local function VOPFRQ_fake_script() -- Shatter.LocalScript 
+	local script = Instance.new('LocalScript', Shatter)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/ia1faF4A"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Shattervast by illremember!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(VOPFRQ_fake_script)()
+local function WYHQTD_fake_script() -- Chicken.LocalScript 
+	local script = Instance.new('LocalScript', Chicken)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/PPG6Pkd8"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Chicken GUI! (Z for chicken, V for sandwich)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(WYHQTD_fake_script)()
+local function ATVEQ_fake_script() -- Animations.LocalScript 
+	local script = Instance.new('LocalScript', Animations)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/Kzz7tzmH"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Animation Pack by xyz!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(ATVEQ_fake_script)()
+local function YRHMLGF_fake_script() -- SaveTools.LocalScript 
+	local script = Instance.new('LocalScript', SaveTools)
+
+	script.Parent.MouseButton1Click:connect(function()
+		local LocalPlayer = game:GetService("Players").LocalPlayer
+		local function saveTools()
+			LocalPlayer.Character:WaitForChild("Humanoid").Died:Connect(function()
+			LocalPlayer.Character:FindFirstChild("Humanoid"):UnequipTools()
+			for _, tool in pairs(LocalPlayer.Backpack:GetChildren()) do
+			if tool:IsA("Tool") then
+			tool.Parent = LocalPlayer
+			end
+			end
+			end)
+			end
+			LocalPlayer.CharacterAdded:Connect(function(char)
+			for _, tool in pairs(LocalPlayer:GetChildren()) do
+			if tool:IsA("Tool") then
+			tool.Parent = LocalPlayer.Backpack
+			end
+		end
+		saveTools()
+		end)
+		saveTools()	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded SaveTools! (Saves tools after hard resetting)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(YRHMLGF_fake_script)()
+local function MCQWJ_fake_script() -- AntiStomp.LocalScript 
+	local script = Instance.new('LocalScript', AntiStomp)
+
+	script.Parent.MouseButton1Click:connect(function()
+		game.Players.LocalPlayer.Character.FakeDeath:Destroy()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded AntiStomp by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(MCQWJ_fake_script)()
+local function WQDD_fake_script() -- Bypass1.LocalScript 
+	local script = Instance.new('LocalScript', Bypass1)
+
+	script.Parent.MouseButton1Click:connect(function()
+		game.Players.LocalPlayer.Character.Stamina:Destroy()	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Simple Bypass by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(WQDD_fake_script)()
+local function RZDPHMX_fake_script() -- VoidGui.LocalScript 
+	local script = Instance.new('LocalScript', VoidGui)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/T2F6KgNX"))()	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Void GUI by Psykek!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(RZDPHMX_fake_script)()
+local function ZUNKCXB_fake_script() -- UnknownX.LocalScript 
+	local script = Instance.new('LocalScript', UnknownX)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/5JQF1119"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded UnknownX!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(ZUNKCXB_fake_script)()
+local function ITEUYT_fake_script() -- AntiVoid.LocalScript 
+	local script = Instance.new('LocalScript', AntiVoid)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/e4jbGTYW"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded A.F.T.V. by Kaldr!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(ITEUYT_fake_script)()
+local function SCEDHK_fake_script() -- InfRun.LocalScript 
+	local script = Instance.new('LocalScript', InfRun)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/GhC1Gc29"))()	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Infinite Run by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(SCEDHK_fake_script)()
+local function JMZPO_fake_script() -- Bypass2.LocalScript 
+	local script = Instance.new('LocalScript', Bypass2)
+
+	script.Parent.MouseButton1Click:connect(function()
+		game.Players.LocalPlayer.PlayerGui.LocalScript:Destroy()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Full Bypass by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(JMZPO_fake_script)()
+local function ZZARX_fake_script() -- TouchVoid.LocalScript 
+	local script = Instance.new('LocalScript', TouchVoid)
+
+	script.Parent.MouseButton1Click:connect(function()
+		local LocalPlayer = game:GetService("Players").LocalPlayer
+		local torsoname = "Torso"
+		if LocalPlayer.Character:FindFirstChild("Humanoid").RigType == Enum.HumanoidRigType.R15 then
+		   	torsoname = "UpperTorso"
+		end
+		LocalPlayer.Character:FindFirstChild("Animate").toolnone.ToolNoneAnim.AnimationId = math.huge
+		LocalPlayer.Character:FindFirstChild(torsoname).Anchored = true
+		local tool = Instance.new("Tool", LocalPlayer.Backpack)
+		LocalPlayer.Character:FindFirstChildOfClass("Accessory").Handle.Parent = tool
+		tool.Handle.Massless = true
+		tool.GripPos = Vector3.new(0, math.huge, 0)
+		tool.Parent = LocalPlayer.Character
+		wait()
+		tool.Grip = CFrame.new(Vector3.new(0, 0, 0))
+		LocalPlayer.Character:FindFirstChild(torsoname).Anchored = false		
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Touch Void by Cyclically!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(ZZARX_fake_script)()
+local function PMWKGWJ_fake_script() -- GUITEST.LocalScript 
+	local script = Instance.new('LocalScript', GUITEST)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/ft1fJcX1"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded GUITEST!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(PMWKGWJ_fake_script)()
+local function KGBGWA_fake_script() -- Btools.LocalScript 
+	local script = Instance.new('LocalScript', Btools)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/xaHcY33Q"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Btools!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(KGBGWA_fake_script)()
+local function SZFLPXT_fake_script() -- InvisFling.LocalScript 
+	local script = Instance.new('LocalScript', InvisFling)
+
+	script.Parent.MouseButton1Click:connect(function()
+			spawn(function()
+			local message = Instance.new("Message",workspace)
+			message.Text = "Loaded press z to execute inviseble , press x to respawn)"
+			wait(3)
+			message:Destroy()
+			end)
+			
+			
+			
+			
+			
+			
+			
+			
+			local mouse = game.Players.LocalPlayer:GetMouse()
+			
+			local groot = nil
+			
+			mouse.KeyDown:connect(function(k)
+				
+				if k == "z" then
+					
+					
+					
+			spawn(function()
+			local message = Instance.new("Message",workspace)
+			message.Text = "Fe Invisible Fling By Diemiers#4209 Loaded [wait 5 seconds to load lol changed by vo_xo (was 11 seconds])"
+			wait(5)
+			message:Destroy()
+			end)
+			
+			
+			local ch = game.Players.LocalPlayer.Character
+			local prt=Instance.new("Model", workspace)
+			local z1 =  Instance.new("Part", prt)
+			z1.Name="Torso"
+			z1.CanCollide = false
+			z1.Anchored = true
+			local z2  =Instance.new("Part", prt)
+			z2.Name="Head"
+			z2.Anchored = true
+			z2.CanCollide = false
+			local z3 =Instance.new("Humanoid", prt)
+			z3.Name="Humanoid"
+			z1.Position = Vector3.new(0,9999,0)
+			z2.Position = Vector3.new(0,9991,0)
+			 game.Players.LocalPlayer.Character=prt
+			wait(5)
+			game.Players.LocalPlayer.Character=ch
+			wait(6)
+			
+			
+			local plr = game.Players.LocalPlayer
+			mouse = plr:GetMouse()
+			
+			local Hum = Instance.new("Humanoid")
+			Hum.Parent = game.Players.LocalPlayer.Character
+			
+			
+			local root =  game.Players.LocalPlayer.Character.HumanoidRootPart
+			
+			
+			for i,v in pairs(plr.Character:GetChildren()) do
+				
+				if v ~= root and  v.Name ~= "Humanoid" then
+					
+					v:Destroy()
+					
+				end
+				
+				
+			end
+			           
+			workspace.CurrentCamera.CameraSubject = root
+			
+			local se = Instance.new("SelectionBox",root)
+			se.Adornee = root
+			
+			
+			game:GetService('RunService').Stepped:connect(function()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CanCollide = false
+			end)
+			game:GetService('RunService').RenderStepped:connect(function()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CanCollide = false
+			end)
+			
+			
+			power = 999999 -- change this to make it more or less powerful
+			
+			power = power*10
+			
+			---
+			wait(.1)
+			local bambam = Instance.new("BodyThrust")
+			bambam.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
+			bambam.Force = Vector3.new(power,0,power)
+			bambam.Location = game.Players.LocalPlayer.Character.HumanoidRootPart.Position 
+			
+			
+			
+			
+			
+			local plr = game.Players.LocalPlayer
+			local torso = root
+			local flying = true
+			local deb = true
+			local ctrl = {f = 0, b = 0, l = 0, r = 0}
+			local lastctrl = {f = 0, b = 0, l = 0, r = 0}
+			local maxspeed = 120
+			local speed = 15
+			
+			
+			---local bambam = Instance.new("BodyThrust")
+			---bambam.Parent = torso
+			--bambam.Force = Vector3.new(9999999,0,9999999)
+			--bambam.Location = torso.Position
+			
+			
+			---
+			groot = root
+			 
+			function Fly()
+			local bg = Instance.new("BodyGyro", torso)
+			bg.P = 9e4
+			bg.maxTorque = Vector3.new(0, 0, 0)
+			bg.cframe = torso.CFrame
+			local bv = Instance.new("BodyVelocity", torso)
+			bv.velocity = Vector3.new(0,0,0)
+			bv.maxForce = Vector3.new(9e9, 9e9, 9e9)
+			repeat wait()
+			
+			if ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0 then
+			speed = speed+.2
+			if speed > maxspeed then
+			speed = maxspeed
+			end
+			elseif not (ctrl.l + ctrl.r ~= 0 or ctrl.f + ctrl.b ~= 0) and speed ~= 0 then
+			speed = speed-1
+			if speed < 0 then
+			speed = 0
+			end
+			end
+			if (ctrl.l + ctrl.r) ~= 0 or (ctrl.f + ctrl.b) ~= 0 then
+			bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (ctrl.f+ctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(ctrl.l+ctrl.r,(ctrl.f+ctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+			lastctrl = {f = ctrl.f, b = ctrl.b, l = ctrl.l, r = ctrl.r}
+			elseif (ctrl.l + ctrl.r) == 0 and (ctrl.f + ctrl.b) == 0 and speed ~= 0 then
+			bv.velocity = ((game.Workspace.CurrentCamera.CoordinateFrame.lookVector * (lastctrl.f+lastctrl.b)) + ((game.Workspace.CurrentCamera.CoordinateFrame * CFrame.new(lastctrl.l+lastctrl.r,(lastctrl.f+lastctrl.b)*.2,0).p) - game.Workspace.CurrentCamera.CoordinateFrame.p))*speed
+			else
+			bv.velocity = Vector3.new(0,0.1,0)
+			end
+			
+			until not flying
+			ctrl = {f = 0, b = 0, l = 0, r = 0}
+			lastctrl = {f = 0, b = 0, l = 0, r = 0}
+			speed = 0
+			bg:Destroy()
+			bv:Destroy()
+			
+			end
+			mouse.KeyDown:connect(function(key)
+			if key:lower() == "e" then
+			if flying then flying = false
+			else
+			flying = true
+			Fly()
+			end
+			elseif key:lower() == "w" then
+			ctrl.f = 1
+			elseif key:lower() == "s" then
+			ctrl.b = -1
+			elseif key:lower() == "a" then
+			ctrl.l = -1
+			elseif key:lower() == "d" then
+			ctrl.r = 1
+			end
+			end)
+			mouse.KeyUp:connect(function(key)
+			if key:lower() == "w" then
+			ctrl.f = 0
+			elseif key:lower() == "s" then
+			ctrl.b = 0
+			elseif key:lower() == "a" then
+			ctrl.l = 0
+			elseif key:lower() == "d" then
+			ctrl.r = 0
+			elseif key:lower() == "r" then
+			
+			end
+			end)
+			Fly()
+			
+					
+					
+				elseif k == "x" then
+					
+					
+					spawn(function()
+			local message = Instance.new("Message",workspace)
+			message.Text = "Respawning dont spam"
+			wait(1)
+			message:Destroy()
+			end)
+					
+					local saved = groot.Position
+					
+			local ch = game.Players.LocalPlayer.Character
+			local prt=Instance.new("Model", workspace)
+			local z1 =  Instance.new("Part", prt)
+			z1.Name="Torso"
+			z1.CanCollide = false
+			z1.Anchored = true
+			local z2  =Instance.new("Part", prt)
+			z2.Name="Head"
+			z2.Anchored = true
+			z2.CanCollide = false
+			local z3 =Instance.new("Humanoid", prt)
+			z3.Name="Humanoid"
+			z1.Position = Vector3.new(0,9999,0)
+			z2.Position = Vector3.new(0,9991,0)
+			 game.Players.LocalPlayer.Character=prt
+			wait(5)
+			 game.Players.LocalPlayer.Character=ch
+			local poop = nil
+					repeat wait() poop = game.Players.LocalPlayer.Character:FindFirstChild("Head") until poop ~= nil
+					wait(1)
+					game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(saved)
+					
+				end
+				
+				
+			end)
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Invisible Fling by Diemiers!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(SZFLPXT_fake_script)()
+local function JHHWWYP_fake_script() -- Page1.LocalScript 
+	local script = Instance.new('LocalScript', Page1)
+
+	local ct1 = script.Parent.ct1
+	local ct2 = script.Parent.ct2
+	local ct3 = script.Parent.ct3
+	local ct4 = script.Parent.ct4
+	local ct5 = script.Parent.ct5
+	
+	wait(21)
+	ct1:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+	wait(0.2)
+	ct2:TweenSize(UDim2.new(0, 139,0, 0), "Out", "Quart", 0.8)
+	wait(0.2)
+	ct3:TweenSize(UDim2.new(0, 130,0, 0), "Out", "Quart", 0.8)
+	wait(0.2)
+	ct4:TweenSize(UDim2.new(0, 129,0, 0), "Out", "Quart", 0.8)
+	wait(0.2)
+	ct5:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+	if script.Parent.Parent.Parent.yesorno.counter.Text == "0" then
+	game.StarterGui:SetCore("SendNotification",{
+	Title = "Sharkyy V4";
+	Text = "You didn't choose, so I chose for you. :)";
+	Icon = "http://www.roblox.com/asset/?id=4612681334";
+	Duration = "5";
+	})
+	end
+end
+coroutine.wrap(JHHWWYP_fake_script)()
+local function XWRQYY_fake_script() -- ToolDrop.LocalScript 
+	local script = Instance.new('LocalScript', ToolDrop)
+
+	script.Parent.MouseButton1Click:connect(function()
+		for _,v in pairs(game:GetService"Players".LocalPlayer:FindFirstChildOfClass"Backpack":GetChildren'') do
+		  	pcall(function() v.CanBeDropped = true 
+		end)
+		end		
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Enabled Tool Dropping!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(XWRQYY_fake_script)()
+local function JBUL_fake_script() -- NoSlow.LocalScript 
+	local script = Instance.new('LocalScript', NoSlow)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/FVwkMunU"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded No Slow and Shoot While Down!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(JBUL_fake_script)()
+local function DQUYT_fake_script() -- GodAnim.LocalScript 
+	local script = Instance.new('LocalScript', GodAnim)
+
+	script.Parent.MouseButton1Click:connect(function()
+		local noob = game.Players.LocalPlayer.Character
+		noob.Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation1.Weight.Value = "9"
+		noob.Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation2.Weight.Value = "1"
+		noob.Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.swim.Swim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.swimidle.SwimIdle.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded God Animations by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(DQUYT_fake_script)()
+local function FDBZFB_fake_script() -- DropAll.LocalScript 
+	local script = Instance.new('LocalScript', DropAll)
+
+	script.Parent.MouseButton1Click:connect(function()
+		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+		    if v.ClassName == "Tool" then
+		    v.CanBeDropped = true
+		    v.Parent = game.Players.LocalPlayer.Character
+		    wait()
+		    v.Parent = workspace.Terrain
+		end
+		end		
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Dropped all tools!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(FDBZFB_fake_script)()
+local function VBUXYDF_fake_script() -- Bbb.LocalScript 
+	local script = Instance.new('LocalScript', Bbb)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/YQM6TF70"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Booga Fricker!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(VBUXYDF_fake_script)()
+local function FKTNJN_fake_script() -- ANTSTOMP.LocalScript 
+	local script = Instance.new('LocalScript', ANTSTOMP)
+
+	script.Parent.MouseButton1Click:connect(function()
+		game.Players.LocalPlayer.Character.FakeDeath:Destroy()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded AntiStomp by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(FKTNJN_fake_script)()
+local function VBJCKE_fake_script() -- INFRUn.LocalScript 
+	local script = Instance.new('LocalScript', INFRUn)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/GhC1Gc29"))()	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Infinite Run by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(VBJCKE_fake_script)()
+local function QNKNLSP_fake_script() -- chikcne.LocalScript 
+	local script = Instance.new('LocalScript', chikcne)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/PPG6Pkd8"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Chicken GUI! (Z for chicken, V for sandwich)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(QNKNLSP_fake_script)()
+local function EMSSHB_fake_script() -- GAN.LocalScript 
+	local script = Instance.new('LocalScript', GAN)
+
+	script.Parent.MouseButton1Click:connect(function()
+		local noob = game.Players.LocalPlayer.Character
+		noob.Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation1.Weight.Value = "9"
+		noob.Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.idle.Animation2.Weight.Value = "1"
+		noob.Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.swim.Swim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.swimidle.SwimIdle.AnimationId = "http://www.roblox.com/asset/?id=3337994105"
+		noob.Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=3337994105"	
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded God Animations by az123!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(EMSSHB_fake_script)()
+local function MHCO_fake_script() -- toolkitss.LocalScript 
+	local script = Instance.new('LocalScript', toolkitss)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/DSN1cfiV"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded TS2oolkit by Domidice and Boogs!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(MHCO_fake_script)()
+local function VHVBSF_fake_script() -- CFLY.LocalScript 
+	local script = Instance.new('LocalScript', CFLY)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/vCRmUBWj"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Car Fly! (Press H)";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(VHVBSF_fake_script)()
+local function YZCM_fake_script() -- SMOF.LocalScript 
+	local script = Instance.new('LocalScript', SMOF)
+
+	script.Parent.MouseButton1Click:connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/nQtnWye2"))()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Loaded Smooth Fly by az123(?(Press G))!";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(YZCM_fake_script)()
+local function XSEKUS_fake_script() -- apel.LocalScript 
+	local script = Instance.new('LocalScript', apel)
+
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.Parent.Parent.Parent.pie:TweenSize(UDim2.new(0, 259,0, 236), "Out", "Sine", 0.4)
+		script.Parent.Parent.Parent.Parent.Parent.ALLAHPIE:Play()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "PIE";
+		Text = "PIEPIEPIEPIEPIEPIEPIEPIEPIEPIE";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+	})
+	end)
+end
+coroutine.wrap(XSEKUS_fake_script)()
+local function IVHBOVX_fake_script() -- NOPLS.LocalScript 
+	local script = Instance.new('LocalScript', NOPLS)
+
+	local mute = script.Parent.Parent.Parent.Parent.mute
+	local ct1 = script.Parent.Parent.Parent.Pages.Page1.ct1
+	local ct2 = script.Parent.Parent.Parent.Pages.Page1.ct2
+	local ct3 = script.Parent.Parent.Parent.Pages.Page1.ct3
+	local ct4 = script.Parent.Parent.Parent.Pages.Page1.ct4
+	local ct5 = script.Parent.Parent.Parent.Pages.Page1.ct5
+	
+	
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.Parent.Parent.coolnoise:Play()
+		mute.BackgroundTransparency = 1
+		script.Parent.Parent:TweenSize(UDim2.new(0, 699,0, 0), "Out", "Quint", 1)
+		script.Parent.Parent.BorderSizePixel = 0
+		wait(1)
+		script.Parent.Parent.Visible = false
+		ct1:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct2:TweenSize(UDim2.new(0, 139,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct3:TweenSize(UDim2.new(0, 130,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct4:TweenSize(UDim2.new(0, 129,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct5:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+		while wait() do
+			script.Parent.Parent.counter.Text = "1337"
+		end
+	end)
+end
+coroutine.wrap(IVHBOVX_fake_script)()
+local function NMZDS_fake_script() -- UHHUH.LocalScript 
+	local script = Instance.new('LocalScript', UHHUH)
+
+	local ct1 = script.Parent.Parent.Parent.Pages.Page1.ct1
+	local ct2 = script.Parent.Parent.Parent.Pages.Page1.ct2
+	local ct3 = script.Parent.Parent.Parent.Pages.Page1.ct3
+	local ct4 = script.Parent.Parent.Parent.Pages.Page1.ct4
+	local ct5 = script.Parent.Parent.Parent.Pages.Page1.ct5
+	
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.Parent.Parent.coolnoise:Play()
+		script.Parent.Parent:TweenSize(UDim2.new(0, 699,0, 0), "Out", "Quint", 0.5)
+		script.Parent.Parent.BorderSizePixel = 0
+		wait(1)
+		script.Parent.Parent.counter.Text = "1337"
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = "Uh oh.";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "5";
+		})
+		ct1:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct2:TweenSize(UDim2.new(0, 139,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct3:TweenSize(UDim2.new(0, 130,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct4:TweenSize(UDim2.new(0, 129,0, 0), "Out", "Quart", 0.8)
+		wait(0.2)
+		ct5:TweenSize(UDim2.new(0, 145,0, 0), "Out", "Quart", 0.8)
+		while wait() do
+			script.Parent.Parent.counter.Text = "1337"
+		end
+	end)
+end
+coroutine.wrap(NMZDS_fake_script)()
+local function OGSYS_fake_script() -- counter.LocalScript 
+	local script = Instance.new('LocalScript', counter)
+
+	wait(5)
+	script.Parent.Parent:TweenSize(UDim2.new(0, 699,0, 238), "Out", "Quint", 0.5)
+	wait(0.5)
+	script.Parent.Text = "14"
+	wait(1)
+	script.Parent.Text = "13"
+	wait(1)
+	script.Parent.Text = "12"
+	wait(1)
+	script.Parent.Text = "11"
+	wait(1)
+	script.Parent.Text = "10"
+	wait(1)
+	script.Parent.Text = "9"
+	wait(1)
+	script.Parent.Text = "8"
+	wait(1)
+	script.Parent.Text = "7"
+	wait(1)
+	script.Parent.Text = "6"
+	wait(1)
+	script.Parent.Text = "5"
+	wait(1)
+	script.Parent.Text = "4"
+	wait(1)
+	script.Parent.Text = "3"
+	script.Parent.TextColor3 = Color3.new(0.8, 0, 0)
+	wait(1)
+	script.Parent.Text = "2"
+	wait(1)
+	script.Parent.Text = "1"
+	wait(1)
+	script.Parent.Text = "0"
+	script.Parent.Parent:TweenSize(UDim2.new(0, 699,0, 0), "Out", "Quint", 1)
+	script.Parent.Parent.BorderSizePixel = 0
+end
+coroutine.wrap(OGSYS_fake_script)()
+local function UFFBKDR_fake_script() -- stuff.LocalScript 
+	local script = Instance.new('LocalScript', stuff)
+
+	while true do
+		wait(0.1)
+		script.Parent.logo1.Visible = false
+		script.Parent.logo2.Visible = true
+		wait(0.1)
+		script.Parent.logo2.Visible = false
+		script.Parent.logo3.Visible = true
+		wait(0.1)
+		script.Parent.logo3.Visible = false
+		script.Parent.logo4.Visible = true
+		wait(0.1)
+		script.Parent.logo4.Visible = false
+		script.Parent.logo1.Visible = true
+	end
+end
+coroutine.wrap(UFFBKDR_fake_script)()
+local function GQVU_fake_script() -- Disable.LocalScript 
+	local script = Instance.new('LocalScript', Disable)
+
+	local bruhhh = script.Parent.Parent.Parent.Open
+	local nahchief = script.Parent.Parent.Parent.coolersound
+	
+	script.Parent.MouseButton1Click:connect(function()
+		game.StarterGui:SetCore("SendNotification",{
+		Title = "Sharkyy V4";
+		Text = ":(";
+		Icon = "http://www.roblox.com/asset/?id=4612681334";
+		Duration = "2";
+		})
+		nahchief:Play()
+		script.Parent.Parent.funnyjoke:Destroy()
+		script.Parent.Parent.Parent.PRANKED:Destroy()
+		script.Parent.Parent.Parent.PRANKEDx2:Destroy()
+		script.Parent.Parent.Parent.PRANKEDx3:Destroy()
+		script.Parent:TweenSize(UDim2.new(0, 91,0, 0), "Out", "Sine", 1)
+		script.Parent.BackgroundColor3 = Color3.new(0.6, 0.9, 0)
+		wait(0.5)
+		script.Parent.BorderSizePixel = 0
+		wait(0.5)
+		script.Parent.Destroy()
+	end)
+end
+coroutine.wrap(GQVU_fake_script)()
+local function FJBKSRI_fake_script() -- Open.LocalScript 
+	local script = Instance.new('LocalScript', Open)
+
+	local bruhnomoreleaks = script.Parent.Parent.stuff
+	local bruhhh = game:GetService("UserInputService")
+	local WHATTHEHECK = script.Parent.Parent.coolersound
+	
+	bruhhh.InputBegan:connect(function(loll)
+		if loll.KeyCode == Enum.KeyCode.F2 then
+			if script.Parent.Parent.stuff.Visible == false then
+				WHATTHEHECK:Play()
+				script.Parent.Parent.stuff.Visible = true
+				script.Parent.Parent.stuff:TweenPosition(UDim2.new(0.266, 0,0.246, 0), "Out", "Quint", 0.8)
+				script.Parent:TweenSize(UDim2.new(0, 141,0, 0), "Out", "Sine", 0.8)
+				wait(0.1)
+				script.Parent.BorderSizePixel = 1
+				script.Parent.TextTransparency = 1
+				script.Parent.TextStrokeTransparency = 1
+				wait(0.4)
+				script.Parent.BorderSizePixel = 0
+			elseif script.Parent.Parent.stuff.Visible == true then
+				WHATTHEHECK:Play()
+				script.Parent.Parent.stuff:TweenPosition(UDim2.new(0.266, 0,-1, 0), "In", "Quint", 0.8)
+				script.Parent:TweenSize(UDim2.new(0, 141,0, 35), "In", "Sine", 0.8)
+				script.Parent.BorderSizePixel = 1
+				wait(0.3)
+				script.Parent.BorderSizePixel = 2
+				wait(0.4)
+				script.Parent.TextStrokeTransparency = 0
+				script.Parent.TextTransparency = 0
+				script.Parent.Parent.stuff.Visible = false		
+			end
+		end
+	end)
+	
+	script.Parent.MouseButton1Click:connect(function()
+		WHATTHEHECK:Play()
+		bruhnomoreleaks.Visible = true
+		script.Parent.Parent.stuff:TweenPosition(UDim2.new(0.266, 0,0.246, 0), "Out", "Quint", 0.8)
+		script.Parent:TweenSize(UDim2.new(0, 141,0, 0), "Out", "Sine", 0.8)
+		wait(0.1)
+		script.Parent.BorderSizePixel = 1
+		script.Parent.TextTransparency = 1
+		script.Parent.TextStrokeTransparency = 1
+		wait(0.4)
+		script.Parent.BorderSizePixel = 0
+	end)
+end
+coroutine.wrap(FJBKSRI_fake_script)()
+local function RPOAMF_fake_script() -- Open.LocalScript 
+	local script = Instance.new('LocalScript', Open)
+
+	while true do
+		wait(0.1)
+		script.Parent.a.Visible = false
+		script.Parent.b.Visible = true
+		wait(0.1)
+		script.Parent.b.Visible = false
+		script.Parent.c.Visible = true
+		wait(0.1)
+		script.Parent.c.Visible = false
+		script.Parent.d.Visible = true
+		wait(0.1)
+		script.Parent.d.Visible = false
+		script.Parent.a.Visible = true
+	end
+end
+coroutine.wrap(RPOAMF_fake_script)()
+local function QKJVPGA_fake_script() -- Startup.LocalScript 
+	local script = Instance.new('LocalScript', Startup)
+
+	script.Parent:TweenSize(UDim2.new(0, 450,0, 250), "Out", "Quart", 0.8)
+	
+	while true do
+		wait(0.1)
+		script.Parent.f1.Visible = false
+		script.Parent.f2.Visible = true
+		wait(0.1)
+		script.Parent.f2.Visible = false
+		script.Parent.f3.Visible = true
+		wait(0.1)
+		script.Parent.f3.Visible = false
+		script.Parent.f4.Visible = true
+		wait(0.1)
+		script.Parent.f4.Visible = false
+		script.Parent.f1.Visible = true
+	end
+end
+coroutine.wrap(QKJVPGA_fake_script)()
+local function DLSYMXB_fake_script() -- TextLabel_17.LocalScript 
+	local script = Instance.new('LocalScript', TextLabel_17)
+
+	wait(1.5)
+	script.Parent.Text = '"swag"'
+	wait(1)
+	script.Parent.Text = "discord.gg/MZ9bCzZ"
+	wait(1)
+	script.Parent.Text = '"i dont know why i even update this anymore"'
+end
+coroutine.wrap(DLSYMXB_fake_script)()
+local function APFBZPQ_fake_script() -- Frame.RGB 
+	local script = Instance.new('LocalScript', Frame)
+
+	function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
+	
+	counter = 0
+	
+	while wait(0.07) do
+		script.Parent.BackgroundColor3 = Color3.fromHSV(zigzag(counter), 1, 1)
+		counter = counter + 0.01
+	end
+end
+coroutine.wrap(APFBZPQ_fake_script)()
+local function PIUCTLE_fake_script() -- Frame.tweening 
+	local script = Instance.new('LocalScript', Frame)
+
+	wait(1)
+	wait(0.1)
+	script.Parent:TweenSize(UDim2.new(0, 50,0, 7), "Out", "Sine", 0.1)
+	wait(1)
+	script.Parent:TweenSize(UDim2.new(0, 321,0, 7), "Out", "Linear", 0.2)
+	wait(0.7)
+	script.Parent:TweenSize(UDim2.new(0, 450,0, 7), "Out", "Sine", 0.3)
+	wait(0.2)
+	script.Parent.Parent:TweenSize(UDim2.new(0, 450,0, 0), "Out", "Sine", 0.4)
+	wait(0.7)
+	script.Parent.Parent.Parent.stuff:TweenSize(UDim2.new(0, 705,0, 364), "Out", "Quart", 0.8)
+	script.Parent.Parent.Parent.stuff.BorderSizePixel = 3
+	
+	script.Parent.Parent.Parent.coolnoise:Play()
+	wait(4)
+	script.Parent.Parent.Parent.coolnoise:Stop()
+end
+coroutine.wrap(PIUCTLE_fake_script)()
+local function ENLY_fake_script() -- notascript.pranker 
+	local script = Instance.new('LocalScript', notascript)
+
+	local LOL = script.Parent.PRANKED
+	local OWNED = script.Parent.PRANKEDx2
+	local REKT = script.Parent.PRANKEDx3
+	local omg = script.Parent.stuff.funnyjoke
+	local mute = script.Parent.mute
+	
+	wait(15)
+	
+	if mute.BackgroundTransparency == (1) then
+		LOL:Stop()
+		OWNED:Stop()
+		REKT:Stop()
+		omg.ImageTransparency = 1
+	elseif mute.BackgroundTransparency == (0) then
+		while true do
+			wait(67)
+			LOL:Play()
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.6
+			wait(50)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 1
+			wait(295)
+			OWNED:Play()
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.6
+			wait(50)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 1
+			wait(386)
+			REKT:Play()
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.6
+			wait(50)
+			omg.ImageTransparency = 0.7
+			wait(5)
+			omg.ImageTransparency = 0.8
+			wait(5)
+			omg.ImageTransparency = 0.9
+			wait(5)
+			omg.ImageTransparency = 1
+			wait(79)
+		end	
+	end
+	
+	
+end
+coroutine.wrap(ENLY_fake_script)()
+local function PMCKKNO_fake_script() -- notascript.skychanger 
+	local script = Instance.new('LocalScript', notascript)
+
+	no = game.Lighting.Sky
+	while wait() do
+		no.SkyboxBk = "http://www.roblox.com/asset/?id=159454299"
+		no.SkyboxDn = "http://www.roblox.com/asset/?id=159454296"
+		no.SkyboxFt = "http://www.roblox.com/asset/?id=159454293"
+		no.SkyboxLf = "http://www.roblox.com/asset/?id=159454286"
+		no.SkyboxRt = "http://www.roblox.com/asset/?id=159454300"
+		no.SkyboxUp = "http://www.roblox.com/asset/?id=159454288"
+	end
+	
+end
+coroutine.wrap(PMCKKNO_fake_script)()
+local function OYHKZ_fake_script() -- mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm.LocalScript 
+	local script = Instance.new('LocalScript', mmmpiesogoodmmmmmmthisissomereallygoodpiemmmmmmmmmmsuchgoodpieomghowamazingthispieiswowmmmmm)
+
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent:TweenSize(UDim2.new(0, 0, 0, 0), "In", "Sine", 0.1)
+		script.Parent.Parent.Parent.ALLAHPIE:Stop()
+	end)
+end
+coroutine.wrap(OYHKZ_fake_script)()
+local function SHKXH_fake_script() -- pie.LocalScript 
+	local script = Instance.new('LocalScript', pie)
+
+	local pie = true
+	
+	while pie == true do
+		script.Parent:TweenPosition(UDim2.new(0.03, 0,0.093, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.776, 0,0.262, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.474, 0,0.555, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.764, 0,0.631, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.623, 0,0.165, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.456, 0,0.45, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.652, 0,0.65, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.114, 0,0.38, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(0.734, 0,0.033, 0), "Out", "Linear", 0)
+		wait(0.2)
+		script.Parent:TweenPosition(UDim2.new(-0.008, 0,0.856, 0), "Out", "Linear", 0)
+		wait(0.2)
+	end
+end
+coroutine.wrap(SHKXH_fake_script)()
